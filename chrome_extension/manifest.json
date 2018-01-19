@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
 
-  "name": "Getting started example",
-  "description": "This extension allows the user to change the background color of the current page.",
+  "name": "sponView",
+  "description": "This extension allows the user automatically pull the video ID off youtube videos and send it to the sponView tool.",
   "version": "1.0",
 
   "browser_action": {
@@ -10,7 +10,8 @@
     "default_popup": "popup.html"
   },
   "permissions": [
-    "activeTab",
-    "storage"
-  ]
+    "activeTab"
+  ],
+  "background": { "scripts": [ "background.js" ] }
 }
+
