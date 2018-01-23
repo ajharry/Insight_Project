@@ -41,7 +41,7 @@ def get_captions(youtube, video_id):
 ##### featurize captions
 def document_features(document):
     document_words = document.split()
-    filename = '/Users/april/Documents/Insight/Insight_Project/sponView_flask/dictionary.sav'
+    filename = '/home/ubuntu/sponView_flask/dictionary.sav'
     word_features = pickle.load(open(filename, 'rb'))
     features = {}
     for word in word_features:
@@ -59,7 +59,7 @@ def run_classifier(youtube, video_id):
     else:
       captions = captions.str.cat(sep = " ")
       #load model
-      filename = '/Users/april/Documents/Insight/Insight_Project/sponView_flask/sponView_classifier.sav'
+      filename = '/home/ubuntu/sponView_flask/sponView_classifier.sav'
       classifier = pickle.load(open(filename, 'rb'))
       return captions, classifier.classify(document_features(captions))
       
@@ -71,6 +71,8 @@ def transformSRTCaptions(captions):
     
     
     
+
+##################################
 
 #### list caption ids for youtube video id 
 # Call the API's captions.list method to list the existing caption tracks.
