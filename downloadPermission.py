@@ -25,7 +25,7 @@ from oauth2client.tools import argparser, run_flow
 #   https://developers.google.com/youtube/v3/guides/authentication
 # For more information about the client_secrets.json file format, see:
 #   https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
-CLIENT_SECRETS_FILE = "client_secret.json"
+CLIENT_SECRETS_FILE = "client_secret_webApp.json"
 
 # This OAuth 2.0 access scope allows for full read/write access to the
 # authenticated user's account and requires requests to use an SSL connection.
@@ -33,25 +33,9 @@ YOUTUBE_READ_WRITE_SSL_SCOPE = "https://www.googleapis.com/auth/youtube.force-ss
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 
-# This variable defines a message to display if the CLIENT_SECRETS_FILE is
-# missing.
-MISSING_CLIENT_SECRETS_MESSAGE = """
-WARNING: Please configure OAuth 2.0
-
-To make this sample run you will need to populate the client_secrets.json file
-found at:
-   /Users/april/Documents/Insight/YoutubeAPI/%s
-with information from the APIs Console
-https://console.developers.google.com
-
-For more information about the client_secrets.json file format, please visit:
-https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
-""" % CLIENT_SECRETS_FILE
-
 # Authorize the request and store authorization credentials.
 def get_authenticated_service():
-  flow = flow_from_clientsecrets(CLIENT_SECRETS_FILE, scope=YOUTUBE_READ_WRITE_SSL_SCOPE,
-    message=MISSING_CLIENT_SECRETS_MESSAGE)
+  flow = flow_from_clientsecrets(CLIENT_SECRETS_FILE, scope=YOUTUBE_READ_WRITE_SSL_SCOPE)
 
   storage = Storage("%s-oauth2.json" % 'downloadPermission.py') #sys.argv[0])
   credentials = storage.get()
@@ -94,8 +78,8 @@ def download_caption(youtube, video_id, tfmt):
   ).execute()
     print("First line of caption track: %s" % (subtitle))
 
-def download_caption_byVidID(video_id, tfmt):
-    youtube = get_authenticated_service()
+def download_caption_byVidID(youtube, video_id, tfmt):
+    #youtube = get_authenticated_service()
     caption_id = list_captions(youtube, video_id)
     if caption_id:
         subtitle = youtube.captions().download(

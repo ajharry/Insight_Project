@@ -82,7 +82,9 @@
     <div class="container">
       <div class="starter-template">
         <h3>Result:</h3>
-        <p class="lead">Now we've taken the input and applied a Naive Bayes classifier.<br>The result is the video (video ID: {{video_id}}) <font color="red"><h1>{{result}}</h1></font> contain sponsored content.</p>
+        <p class="lead">Now we've taken the input and applied a Naive Bayes classifier.
+        <p>{{result | safe}}</p>
+        <!--<p>{{captions}}</p>-->
         
         <iframe width="560" height="315" src="https://www.youtube.com/embed/{{video_id}}" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         
