@@ -1,11 +1,9 @@
 #!/usr/bin/python
 
-# Usage example:
-# python captions.py --videoid='<video_id>' --name='<name>' --file='<file>' --language='<language>' --action='action'
-
 import httplib2
 import os
 import sys
+from authenticateYoutube import get_authenticated_service
 
 from apiclient.discovery import build_from_document
 from apiclient.errors import HttpError
@@ -14,45 +12,10 @@ from oauth2client.file import Storage
 from oauth2client.tools import argparser, run_flow
 
 
-# The CLIENT_SECRETS_FILE variable specifies the name of a file that contains
-
-# the OAuth 2.0 information for this application, including its client_id and
-# client_secret. You can acquire an OAuth 2.0 client ID and client secret from
-# the {{ Google Cloud Console }} at
-# {{ https://cloud.google.com/console }}.
-# Please ensure that you have enabled the YouTube Data API for your project.
-# For more information about using OAuth2 to access the YouTube Data API, see:
-#   https://developers.google.com/youtube/v3/guides/authentication
-# For more information about the client_secrets.json file format, see:
-#   https://developers.google.com/api-client-library/python/guide/aaa_client_secrets
-CLIENT_SECRETS_FILE = "client_secret_webApp.json"
-
-# This OAuth 2.0 access scope allows for full read/write access to the
-# authenticated user's account and requires requests to use an SSL connection.
-YOUTUBE_READ_WRITE_SSL_SCOPE = "https://www.googleapis.com/auth/youtube.force-ssl"
-YOUTUBE_API_SERVICE_NAME = "youtube"
-YOUTUBE_API_VERSION = "v3"
-
-# Authorize the request and store authorization credentials.
-def get_authenticated_service():
-  flow = flow_from_clientsecrets(CLIENT_SECRETS_FILE, scope=YOUTUBE_READ_WRITE_SSL_SCOPE)
-
-  storage = Storage("%s-oauth2.json" % 'downloadPermission.py') #sys.argv[0])
-  credentials = storage.get()
-
-  if credentials is None or credentials.invalid:
-    credentials = run_flow(flow, storage)
-
-  # Trusted testers can download this discovery document from the developers page
-  # and it should be in the same directory with the code.
-  with open("youtube-v3-api-captions.json", "r") as f:
-    doc = f.read()
-    return build_from_document(doc, http=credentials.authorize(httplib2.Http()))
-
-
 # Call the API's captions.list method to list the existing caption tracks.
 #EDITED TO RETURN ONLY CAPTION ID IF IN ENGLISH
 def list_captions(youtube, video_id):
+  #youtube = get_authenticated_service()
   results = youtube.captions().list(
     part="snippet",
     videoId=video_id
@@ -63,23 +26,9 @@ def list_captions(youtube, video_id):
         #print("Caption track '%s(%s)' in '%s' language." % (item["snippet"]["name"], item["id"], item["snippet"]["language"]))
         return item["id"]
     
-# Call the API's captions.download method to download an existing caption track.
-def download_caption(youtube, video_id, tfmt):
-    results = youtube.captions().list(
-    part="snippet",
-    videoId=video_id
-  ).execute()
-    
-    caption_id = results["items"][0]["id"]
-    
-    subtitle = youtube.captions().download(
-    id=caption_id,
-    tfmt=tfmt
-  ).execute()
-    print("First line of caption track: %s" % (subtitle))
 
-def download_caption_byVidID(youtube, video_id, tfmt):
-    #youtube = get_authenticated_service()
+def download_caption_byVidID(video_id, tfmt):
+    youtube = get_authenticated_service()
     caption_id = list_captions(youtube, video_id)
     if caption_id:
         subtitle = youtube.captions().download(
