@@ -1,0 +1,34 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:19.980 align:start position:19%
+hi<00:00:00.450><c> everybody</c><c.colorE5E5E5><00:00:00.840><c> just</c><00:00:01.439><c> a</c><00:00:01.680><c> week</c><00:00:02.070><c> love</c><00:00:02.340><c> cancer</c></c>
+
+00:00:03.830 --> 00:00:22.920 align:start position:19%
+come<00:00:04.830><c> look</c><00:00:05.180><c> it</c><00:00:17.869><c> are</c><00:00:18.869><c> you</c><00:00:18.990><c> scared</c><00:00:19.260><c> of</c><00:00:19.410><c> take</c><00:00:19.949><c> a</c>
+
+00:00:19.980 --> 00:00:39.360 align:start position:19%
+seat<c.colorE5E5E5><00:00:20.720><c> okay</c><00:00:21.720><c> so</c><00:00:21.779><c> yeah</c><00:00:22.050><c> just</c><00:00:22.320><c> make</c><00:00:22.529><c> your</c><00:00:22.680><c> way</c><00:00:22.769><c> in</c></c>
+
+00:00:22.920 --> 00:00:43.040 align:start position:19%
+there<c.colorE5E5E5><00:00:29.840><c> okay</c><00:00:31.460><c> to</c><00:00:32.460><c> see</c><00:00:32.669><c> but</c><00:00:32.850><c> I</c><00:00:33.090><c> wasn't</c><00:00:34.079><c> I</c><00:00:34.430><c> yeah</c><00:00:38.360><c> so</c></c>
+
+00:00:39.360 --> 00:00:43.040 align:start position:19%
+how<c.colorE5E5E5><00:00:39.510><c> long</c><00:00:39.750><c> do</c><00:00:39.899><c> you</c><00:00:39.960><c> have</c><00:00:39.989><c> to</c><00:00:40.230><c> wait</c><00:00:40.680><c> doc</c><00:00:41.010><c> are</c></c>
+
+00:00:46.730 --> 00:00:58.460 align:start position:19%
+timeless<00:00:48.860><c> then</c><00:00:49.860><c> wait</c><00:00:50.100><c> for</c><00:00:50.250><c> my</c><c.colorCCCCCC><00:00:50.610><c> business</c><00:00:51.739><c> this</c></c>
+
+00:00:52.739 --> 00:00:58.460 align:start position:19%
+brings<00:00:53.430><c> not</c><00:00:53.940><c> the</c><00:00:54.570><c> minarets</c><00:00:55.379><c> stop</c><00:00:55.800><c> your</c><00:00:56.160><c> day</c>
+
+00:00:59.730 --> 00:01:01.790 align:start position:19%
+you
+

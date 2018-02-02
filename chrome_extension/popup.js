@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var regExp = /^.*(youtu\.be\/|v\/|u\/\w\/|embed\/|watch\?v=|\&v=)([^#\&\?]*).*/;
 var match = url.match(regExp);
     if (match && match[2].length == 11) {
-      var newURL = "http://sponview.site:5000/output?video_id=" + match[2];
+      var newURL = "http://sponview.site/output?video_id=" + match[2];
          chrome.tabs.create({ url: newURL });
     } else {
     }

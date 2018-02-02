@@ -1,0 +1,19 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.030 --> 00:00:12.690 align:start position:19%
+hey<00:00:00.630><c> man</c><00:00:00.930><c> is</c><c.colorE5E5E5><00:00:01.170><c> that's</c><00:00:01.620><c> the</c><00:00:01.860><c> last</c></c><c.colorCCCCCC><00:00:02.040><c> he</c><00:00:02.220><c> chapped</c></c>
+
+00:00:02.580 --> 00:00:17.240 align:start position:19%
+<c.colorCCCCCC>yeah<00:00:03.060><c> that's</c><00:00:03.449><c> all</c><00:00:03.659><c> mine</c><00:00:11.240><c> come</c><00:00:12.240><c> on</c></c>
+
+00:00:12.690 --> 00:00:17.240 align:start position:19%
+you've<00:00:13.110><c> killed</c><00:00:13.380><c> for</c><c.colorCCCCCC><00:00:13.650><c> less</c><00:00:13.860><c> that's</c><00:00:14.610><c> not</c><00:00:14.910><c> untrue</c></c>
+

@@ -1,0 +1,82 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.030 --> 00:00:06.350 align:start position:19%
+and<00:00:00.960><c> what</c><00:00:01.230><c> do</c><00:00:01.350><c> we</c><c.colorCCCCCC><00:00:01.380><c> have</c><00:00:01.589><c> here</c><00:00:02.040><c> what</c><00:00:02.850><c> we</c><00:00:02.909><c> have</c></c>
+
+00:00:03.330 --> 00:00:10.080 align:start position:19%
+the<00:00:04.110><c> internal</c><00:00:04.470><c> wire</c><00:00:04.799><c> of</c><00:00:05.040><c> our</c><00:00:05.160><c> speakers</c><00:00:05.730><c> is</c>
+
+00:00:06.350 --> 00:00:11.969 align:start position:19%
+<c.colorE5E5E5>created<00:00:07.350><c> by</c><00:00:07.440><c> Kimber</c><00:00:07.770><c> cable</c><00:00:08.130><c> and</c><00:00:09.050><c> when</c><00:00:10.050><c> I</c></c>
+
+00:00:10.080 --> 00:00:14.820 align:start position:19%
+<c.colorCCCCCC>worked<00:00:10.380><c> for</c></c><c.colorE5E5E5><00:00:10.469><c> Kimber</c><00:00:10.920><c> prior</c><00:00:11.160><c> to</c><00:00:11.309><c> working</c><00:00:11.490><c> for</c></c>
+
+00:00:11.969 --> 00:00:17.369 align:start position:19%
+<c.colorCCCCCC>yg<00:00:12.360><c> acoustics</c><00:00:13.080><c> they</c><00:00:13.950><c> came</c><00:00:14.160><c> to</c><00:00:14.309><c> me</c><00:00:14.400><c> and</c></c><c.colorE5E5E5><00:00:14.519><c> said</c><00:00:14.670><c> we</c></c>
+
+00:00:14.820 --> 00:00:20.070 align:start position:19%
+need<c.colorE5E5E5><00:00:14.910><c> a</c><00:00:14.969><c> very</c><00:00:15.179><c> special</c></c><c.colorCCCCCC><00:00:15.450><c> wire</c></c><c.colorE5E5E5><00:00:15.920><c> this</c><00:00:16.920><c> is</c><00:00:17.070><c> a</c><00:00:17.100><c> wire</c></c>
+
+00:00:17.369 --> 00:00:22.710 align:start position:19%
+<c.colorCCCCCC>that<00:00:17.640><c> has</c><00:00:17.850><c> a</c><00:00:17.880><c> Teflon</c></c><c.colorE5E5E5><00:00:18.650><c> dielectric</c><00:00:19.650><c> or</c><00:00:19.830><c> Teflon</c></c>
+
+00:00:20.070 --> 00:00:26.789 align:start position:19%
+<c.colorE5E5E5>insulation<00:00:21.029><c> and</c><00:00:21.240><c> the</c><00:00:21.990><c> wires</c><00:00:22.230><c> on</c></c><c.colorCCCCCC><00:00:22.560><c> the</c><00:00:22.680><c> inside</c></c>
+
+00:00:22.710 --> 00:00:28.619 align:start position:19%
+<c.colorE5E5E5>are<00:00:23.580><c> what</c><00:00:23.850><c> we</c><00:00:24.180><c> call</c></c><c.colorCCCCCC><00:00:24.480><c> a</c></c><c.colorE5E5E5><00:00:24.779><c> varus</c><00:00:25.529><c> strand</c><00:00:25.920><c> in</c><00:00:26.609><c> other</c></c>
+
+00:00:26.789 --> 00:00:31.140 align:start position:19%
+words<00:00:26.939><c> they</c><00:00:27.060><c> have</c><00:00:27.180><c> variable</c><00:00:27.630><c> gauge</c><00:00:27.840><c> strands</c>
+
+00:00:28.619 --> 00:00:34.260 align:start position:19%
+so<00:00:28.830><c> the</c><00:00:28.949><c> wires</c><00:00:29.189><c> on</c><00:00:29.519><c> the</c><c.colorCCCCCC><00:00:29.550><c> inside</c><00:00:29.990><c> consists</c><00:00:30.990><c> of</c></c>
+
+00:00:31.140 --> 00:00:36.239 align:start position:19%
+seven<00:00:31.650><c> different</c><c.colorE5E5E5><00:00:31.800><c> strand</c><00:00:32.520><c> sizes</c><00:00:33.260><c> every</c></c>
+
+00:00:34.260 --> 00:00:38.250 align:start position:19%
+strand<c.colorE5E5E5><00:00:34.770><c> will</c><00:00:35.280><c> each</c><00:00:35.489><c> of</c></c><c.colorCCCCCC><00:00:35.520><c> the</c><00:00:35.760><c> seven</c><00:00:36.090><c> there</c></c>
+
+00:00:36.239 --> 00:00:40.379 align:start position:19%
+<c.colorCCCCCC>they're<00:00:36.540><c> doubled</c><00:00:36.930><c> up</c><00:00:37.110><c> seven</c></c><c.colorE5E5E5><00:00:37.500><c> strands</c><00:00:38.040><c> but</c></c>
+
+00:00:38.250 --> 00:00:42.690 align:start position:19%
+they<00:00:38.910><c> all</c><00:00:39.059><c> have</c><c.colorE5E5E5><00:00:39.270><c> slightly</c><00:00:39.600><c> different</c><00:00:39.750><c> gauges</c></c>
+
+00:00:40.379 --> 00:00:45.450 align:start position:19%
+so<00:00:40.530><c> that</c><00:00:40.680><c> if</c><00:00:40.800><c> one</c><00:00:41.100><c> vibrates</c><00:00:41.850><c> its</c><c.colorE5E5E5><00:00:42.210><c> neighbor</c></c>
+
+00:00:42.690 --> 00:00:48.530 align:start position:19%
+<c.colorE5E5E5>does<00:00:43.469><c> not</c><00:00:43.680><c> sympathetically</c><00:00:44.670><c> resonate</c><00:00:45.239><c> right</c></c>
+
+00:00:45.450 --> 00:00:51.600 align:start position:19%
+along<00:00:45.719><c> with</c><c.colorE5E5E5><00:00:45.960><c> it</c><00:00:46.640><c> so</c><00:00:47.640><c> that</c></c><c.colorCCCCCC><00:00:47.670><c> we</c><00:00:47.820><c> don't</c><00:00:48.120><c> have</c></c>
+
+00:00:48.530 --> 00:00:54.270 align:start position:19%
+increased<c.colorE5E5E5><00:00:49.530><c> eddy</c><00:00:49.920><c> currents</c><00:00:50.730><c> or</c><00:00:50.910><c> you</c><00:00:51.480><c> know</c></c>
+
+00:00:51.600 --> 00:00:56.850 align:start position:19%
+problems<00:00:52.199><c> that</c><00:00:52.410><c> result</c><c.colorE5E5E5><00:00:52.649><c> is</c><00:00:53.070><c> as</c><00:00:53.579><c> eddy</c><00:00:53.850><c> currents</c></c>
+
+00:00:54.270 --> 00:00:59.600 align:start position:19%
+form<00:00:54.539><c> because</c><c.colorCCCCCC><00:00:54.899><c> of</c><00:00:55.160><c> resonance</c></c><c.colorE5E5E5><00:00:56.160><c> that's</c><00:00:56.610><c> very</c></c>
+
+00:00:56.850 --> 00:01:02.670 align:start position:19%
+<c.colorE5E5E5>thoughtful</c><c.colorCCCCCC><00:00:57.059><c> and</c><00:00:57.510><c> so</c><00:00:58.379><c> this</c><00:00:58.559><c> is</c><00:00:58.680><c> a</c><00:00:58.710><c> very</c><00:00:59.160><c> special</c></c>
+
+00:00:59.600 --> 00:01:05.989 align:start position:19%
+<c.colorE5E5E5>15<00:01:00.600><c> gauge</c></c><c.colorCCCCCC><00:01:00.809><c> verus</c><00:01:01.320><c> strand</c></c><c.colorE5E5E5><00:01:01.680><c> internal</c><00:01:02.280><c> wire</c><00:01:02.460><c> that</c></c>
+
+00:01:02.670 --> 00:01:05.989 align:start position:19%
+<c.colorE5E5E5>we<00:01:02.820><c> use</c><00:01:03.000><c> inside</c></c><c.colorCCCCCC><00:01:03.270><c> the</c><00:01:03.480><c> speakers</c></c>
+

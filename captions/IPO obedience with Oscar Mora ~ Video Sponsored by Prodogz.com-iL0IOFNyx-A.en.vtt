@@ -1,0 +1,16 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:23.199 --> 00:00:36.579
+ <c.colorCCCCCC>forming said </c><c.colorE5E5E5>through </c><c.colorCCCCCC>them or when </c>
+
+00:00:33.920 --> 00:00:36.579
+ <c.colorE5E5E5>are </c>
+

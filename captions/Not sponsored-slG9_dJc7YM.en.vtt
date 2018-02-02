@@ -1,0 +1,19 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:22.560 align:start position:19%
+I<00:00:03.680><c> have</c><c.colorCCCCCC><00:00:04.680><c> J</c><00:00:07.250><c> as</c><00:00:08.250><c> you</c><00:00:08.490><c> see</c><00:00:08.700><c> here</c><00:00:08.940><c> the</c><00:00:09.330><c> wild</c></c>
+
+00:00:10.050 --> 00:00:25.760 align:start position:19%
+runs<00:00:13.130><c> the</c><00:00:14.130><c> wild</c><00:00:14.429><c> retard</c><c.colorCCCCCC><00:00:14.990><c> and</c><00:00:16.250><c> their</c><00:00:17.250><c> spaz</c><00:00:21.560><c> I</c></c>
+
+00:00:22.560 --> 00:00:25.760 align:start position:19%
+<c.colorCCCCCC>couldn't<00:00:23.160><c> see</c></c><c.colorE5E5E5><00:00:23.369><c> like</c><00:00:23.550><c> what</c></c>
+

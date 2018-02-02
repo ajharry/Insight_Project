@@ -1,0 +1,22 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:05.960 --> 00:01:23.479
+ <c.colorCCCCCC>6 11 hour </c><c.colorE5E5E5>badajoz </c>
+
+00:00:49.800 --> 00:01:38.750
+ <c.colorCCCCCC>has given me told me cabanillas </c><c.colorE5E5E5>Asia </c>
+
+00:01:23.479 --> 00:01:38.750
+ <c.colorCCCCCC>vials </c><c.colorE5E5E5>or </c><c.colorCCCCCC>there </c>
+
+00:02:05.190 --> 00:02:08.460
+ <c.colorCCCCCC>if </c><c.colorE5E5E5>so </c>
+

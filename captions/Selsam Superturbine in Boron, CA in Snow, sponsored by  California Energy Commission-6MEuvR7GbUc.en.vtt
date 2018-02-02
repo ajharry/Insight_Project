@@ -1,0 +1,25 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:02.090 --> 00:00:06.180 align:start position:19%
+hey<00:00:03.090><c> this</c><00:00:03.330><c> is</c><00:00:03.449><c> John</c><c.colorCCCCCC><00:00:03.720><c> I'm</c><00:00:03.899><c> at</c><00:00:04.020><c> the</c><00:00:04.110><c> North</c></c>
+
+00:00:04.290 --> 00:00:09.030 align:start position:19%
+American<c.colorCCCCCC><00:00:04.410><c> Wind</c></c><c.colorE5E5E5><00:00:04.980><c> Energy</c><00:00:05.100><c> Research</c><00:00:05.609><c> Institute</c></c>
+
+00:00:06.180 --> 00:00:17.520 align:start position:19%
+here<c.colorE5E5E5><00:00:06.450><c> in</c><00:00:06.480><c> boron</c><00:00:06.990><c> and</c><00:00:07.319><c> behind</c><00:00:08.069><c> me</c><00:00:08.250><c> in</c><00:00:08.490><c> the</c></c><c.colorCCCCCC><00:00:08.730><c> snow</c></c>
+
+00:00:09.030 --> 00:00:20.210 align:start position:19%
+<c.colorE5E5E5>is<00:00:10.070><c> a</c><00:00:13.759><c> great</c><00:00:14.759><c> big</c><00:00:15.059><c> super</c><00:00:15.480><c> turbine</c><00:00:16.369><c> see</c><00:00:17.369><c> if</c><00:00:17.430><c> I</c></c>
+
+00:00:17.520 --> 00:00:20.210 align:start position:19%
+can<00:00:17.670><c> switch</c><00:00:17.910><c> this</c><00:00:18.060><c> around</c>
+

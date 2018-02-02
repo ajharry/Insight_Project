@@ -1,0 +1,40 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.329 --> 00:00:05.640 align:start position:19%
+<c.colorE5E5E5>hey</c><c.colorCCCCCC><00:00:00.810><c> I</c><00:00:01.140><c> won</c></c><c.colorE5E5E5><00:00:01.410><c> some</c><00:00:01.650><c> crackers</c><00:00:02.220><c> what</c><00:00:02.909><c> should</c><00:00:03.120><c> I</c><00:00:03.179><c> do</c></c>
+
+00:00:03.720 --> 00:00:08.830 align:start position:19%
+let's<00:00:04.049><c> go</c><00:00:04.200><c> get</c><00:00:04.440><c> some</c><00:00:04.589><c> crackers</c><c.colorE5E5E5><00:00:04.830><c> let's</c><00:00:05.339><c> go</c><00:00:05.460><c> get</c></c>
+
+00:00:05.640 --> 00:00:11.809 align:start position:19%
+some<00:00:05.790><c> burgers</c><c.colorE5E5E5><00:00:05.970><c> let's</c><00:00:06.569><c> go</c><00:00:06.720><c> get</c><00:00:06.899><c> some</c><00:00:07.049><c> crackers</c></c>
+
+00:00:08.830 --> 00:00:15.450 align:start position:19%
+[Music]
+
+00:00:11.809 --> 00:00:18.510 align:start position:19%
+but<00:00:12.809><c> nothing</c><00:00:13.349><c> open</c><00:00:14.040><c> the</c><00:00:14.219><c> thing</c><c.colorE5E5E5><00:00:14.490><c> let's</c><00:00:15.089><c> get</c></c>
+
+00:00:15.450 --> 00:00:20.580 align:start position:19%
+some<c.colorE5E5E5><00:00:15.750><c> beggars</c><00:00:16.260><c> by</c><00:00:16.500><c> now</c><00:00:16.560><c> at</c><00:00:16.890><c> Walmart</c></c><c.colorCCCCCC><00:00:17.330><c> just</c><00:00:18.330><c> call</c></c>
+
+00:00:18.510 --> 00:00:22.949 align:start position:19%
+nine<00:00:18.810><c> nine</c><00:00:18.840><c> nine</c><00:00:19.140><c> nine</c><00:00:19.410><c> nine</c><00:00:19.680><c> nine</c><00:00:20.010><c> nine</c><00:00:20.310><c> nine</c>
+
+00:00:20.580 --> 00:00:26.160 align:start position:19%
+nine<00:00:20.880><c> nine</c><00:00:21.180><c> nine</c><00:00:21.480><c> if</c><c.colorCCCCCC><00:00:22.020><c> you</c><00:00:22.170><c> want</c><00:00:22.470><c> some</c><00:00:22.650><c> crackers</c></c>
+
+00:00:22.949 --> 00:00:28.430 align:start position:19%
+<c.colorE5E5E5>now</c><c.colorCCCCCC><00:00:23.340><c> those</c><00:00:24.300><c> scrapers</c><00:00:24.779><c> are</c><00:00:25.019><c> good</c><00:00:25.230><c> to</c><00:00:25.470><c> eat</c><00:00:25.619><c> doo</c></c>
+
+00:00:26.160 --> 00:00:28.430 align:start position:19%
+<c.colorE5E5E5>doo</c>
+

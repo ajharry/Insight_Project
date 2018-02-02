@@ -1,0 +1,1210 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.000 --> 00:00:04.950 align:start position:19%
+hello<00:00:00.329><c> my</c><00:00:00.510><c> friends</c><00:00:00.930><c> welcome</c><c.colorE5E5E5><00:00:00.989><c> to</c><00:00:01.350><c> my</c><00:00:01.589><c> June</c></c>
+
+00:00:02.129 --> 00:00:07.020 align:start position:19%
+favorites<00:00:02.820><c> and</c><00:00:03.120><c> failed</c><c.colorE5E5E5><00:00:03.510><c> countdown</c></c><c.colorCCCCCC><00:00:04.350><c> I've</c><00:00:04.740><c> got</c></c>
+
+00:00:04.950 --> 00:00:09.090 align:start position:19%
+a<00:00:04.980><c> nice</c><00:00:05.190><c> selection</c><00:00:05.520><c> of</c><00:00:05.819><c> stuff</c><c.colorE5E5E5><00:00:06.089><c> for</c><00:00:06.420><c> you</c></c><c.colorCCCCCC><00:00:06.600><c> this</c></c>
+
+00:00:07.020 --> 00:00:11.639 align:start position:19%
+month<c.colorCCCCCC><00:00:07.500><c> uh</c><00:00:07.830><c> some</c><00:00:08.130><c> stuff</c><00:00:08.250><c> that</c><00:00:08.519><c> just</c><00:00:08.639><c> didn't</c></c>
+
+00:00:09.090 --> 00:00:13.920 align:start position:19%
+quite<c.colorE5E5E5><00:00:09.150><c> work</c><00:00:09.719><c> out</c><00:00:09.960><c> some</c><00:00:10.380><c> stuff</c><00:00:10.590><c> I</c><00:00:10.889><c> just</c><00:00:11.340><c> didn't</c></c>
+
+00:00:11.639 --> 00:00:15.809 align:start position:19%
+get<c.colorCCCCCC><00:00:11.880><c> along</c><00:00:12.179><c> with</c><00:00:12.240><c> and</c><00:00:12.960><c> then</c><00:00:13.200><c> a</c><00:00:13.230><c> lot</c></c><c.colorE5E5E5><00:00:13.590><c> of</c><00:00:13.740><c> stuff</c></c>
+
+00:00:13.920 --> 00:00:21.480 align:start position:19%
+that<c.colorCCCCCC><00:00:13.950><c> I</c><00:00:14.099><c> really</c><00:00:14.190><c> really</c><00:00:15.000><c> liked</c><00:00:15.299><c> I</c><00:00:15.480><c> can't</c><00:00:15.690><c> wait</c></c>
+
+00:00:15.809 --> 00:00:23.250 align:start position:19%
+to<00:00:15.900><c> share</c><00:00:16.080><c> with</c><c.colorCCCCCC><00:00:16.139><c> you</c><00:00:20.000><c> never</c><00:00:21.000><c> been</c></c><c.colorE5E5E5><00:00:21.210><c> to</c><00:00:21.300><c> one</c></c><c.colorCCCCCC><00:00:21.420><c> of</c></c>
+
+00:00:21.480 --> 00:00:24.869 align:start position:19%
+<c.colorE5E5E5>my<00:00:21.630><c> favorites</c><00:00:21.990><c> and</c><00:00:22.109><c> fails</c><00:00:22.170><c> countdown</c><00:00:22.800><c> this</c><00:00:23.070><c> is</c></c>
+
+00:00:23.250 --> 00:00:27.330 align:start position:19%
+how<00:00:23.369><c> it</c><00:00:23.490><c> works</c><c.colorE5E5E5><00:00:23.699><c> I</c><00:00:23.880><c> start</c><00:00:24.180><c> with</c><00:00:24.420><c> the</c><00:00:24.600><c> worst</c></c>
+
+00:00:24.869 --> 00:00:29.670 align:start position:19%
+product<c.colorCCCCCC><00:00:25.230><c> that</c><00:00:25.560><c> I</c><00:00:25.590><c> tried</c><00:00:25.980><c> this</c></c><c.colorE5E5E5><00:00:26.250><c> month</c><00:00:26.550><c> and</c><00:00:26.760><c> I</c><00:00:26.939><c> go</c></c>
+
+00:00:27.330 --> 00:00:32.610 align:start position:19%
+all<c.colorCCCCCC><00:00:27.660><c> the</c><00:00:27.869><c> way</c><00:00:27.990><c> up</c><00:00:28.109><c> to</c><00:00:28.349><c> the</c><00:00:28.470><c> best</c><00:00:28.680><c> product</c><00:00:29.130><c> that</c></c>
+
+00:00:29.670 --> 00:00:35.430 align:start position:19%
+I<00:00:29.699><c> tried</c><c.colorE5E5E5><00:00:30.800><c> and</c><00:00:31.800><c> we're</c><00:00:31.980><c> going</c><00:00:32.219><c> to</c><00:00:32.309><c> get</c><00:00:32.369><c> started</c></c>
+
+00:00:32.610 --> 00:00:37.170 align:start position:19%
+with<00:00:33.000><c> never</c><00:00:33.329><c> again</c><00:00:33.680><c> number</c><c.colorCCCCCC><00:00:34.680><c> tens</c><00:00:34.920><c> a</c><00:00:35.040><c> product</c></c>
+
+00:00:35.430 --> 00:00:39.059 align:start position:19%
+<c.colorE5E5E5>that<00:00:35.550><c> I</c><00:00:35.579><c> haven't</c><00:00:35.820><c> had</c><00:00:36.059><c> there</c><00:00:36.270><c> very</c><00:00:36.480><c> long</c><00:00:36.750><c> but</c></c>
+
+00:00:37.170 --> 00:00:41.370 align:start position:19%
+I've<00:00:37.440><c> definitely</c><c.colorE5E5E5><00:00:37.710><c> formed</c><00:00:38.370><c> an</c><00:00:38.430><c> opinion</c></c><c.colorCCCCCC><00:00:38.550><c> about</c></c>
+
+00:00:39.059 --> 00:00:42.899 align:start position:19%
+it<c.colorCCCCCC><00:00:39.120><c> I</c><00:00:39.540><c> usually</c><00:00:40.079><c> wait</c><00:00:40.530><c> a</c><00:00:40.559><c> little</c><00:00:40.829><c> while</c><00:00:41.070><c> before</c></c>
+
+00:00:41.370 --> 00:00:44.879 align:start position:19%
+I<00:00:41.640><c> include</c><00:00:42.210><c> them</c><c.colorE5E5E5><00:00:42.300><c> in</c><00:00:42.420><c> favorites</c><00:00:42.750><c> and</c><00:00:42.840><c> fails</c></c>
+
+00:00:42.899 --> 00:00:46.800 align:start position:19%
+but<00:00:43.379><c> I</c><00:00:43.620><c> really</c><00:00:44.160><c> want</c><00:00:44.340><c> to</c><00:00:44.399><c> show</c><00:00:44.550><c> this</c><c.colorE5E5E5><00:00:44.670><c> one</c><00:00:44.850><c> to</c></c>
+
+00:00:44.879 --> 00:00:49.320 align:start position:19%
+you<00:00:45.030><c> since</c><00:00:45.270><c> it</c><00:00:45.390><c> is</c><00:00:45.480><c> a</c><00:00:45.510><c> brand</c><00:00:45.870><c> new</c><c.colorE5E5E5><00:00:46.050><c> product</c><00:00:46.559><c> it</c></c>
+
+00:00:46.800 --> 00:00:51.629 align:start position:19%
+is<c.colorE5E5E5><00:00:46.950><c> the</c><00:00:47.160><c> benefit</c><00:00:47.610><c> boying</c><00:00:48.059><c> concealer</c><00:00:49.020><c> this</c><00:00:49.260><c> is</c></c>
+
+00:00:49.320 --> 00:00:54.000 align:start position:19%
+<c.colorE5E5E5>the<00:00:49.590><c> new</c><00:00:49.770><c> airbrush</c><00:00:50.460><c> concealer</c><00:00:50.700><c> if</c><00:00:51.239><c> you</c><00:00:51.360><c> didn't</c></c>
+
+00:00:51.629 --> 00:00:55.739 align:start position:19%
+know<c.colorE5E5E5><00:00:51.780><c> benefit</c><00:00:52.680><c> just</c><00:00:52.860><c> repackaged</c><00:00:53.430><c> all</c><00:00:53.699><c> of</c></c>
+
+00:00:54.000 --> 00:00:58.079 align:start position:19%
+their<00:00:54.149><c> concealers</c><00:00:54.660><c> so</c><00:00:54.840><c> like</c><00:00:54.989><c> a</c><00:00:55.020><c> race</c><00:00:55.260><c> pace</c><00:00:55.500><c> and</c>
+
+00:00:55.739 --> 00:01:00.420 align:start position:19%
+fake<00:00:55.949><c> up</c><c.colorCCCCCC><00:00:56.129><c> they're</c><00:00:56.309><c> all</c><00:00:56.460><c> buying</c><00:00:56.940><c> something</c><00:00:57.719><c> or</c></c>
+
+00:00:58.079 --> 00:01:02.430 align:start position:19%
+another<c.colorCCCCCC><00:00:58.230><c> I</c><00:00:58.770><c> actually</c><00:00:59.160><c> talked</c><00:00:59.609><c> to</c></c><c.colorE5E5E5><00:00:59.789><c> the</c><00:01:00.210><c> folks</c></c>
+
+00:01:00.420 --> 00:01:04.379 align:start position:19%
+over<00:01:00.660><c> at</c><00:01:00.780><c> benefit</c><00:01:01.230><c> at</c><c.colorE5E5E5><00:01:01.379><c> generation</c><00:01:01.980><c> Beauty</c><00:01:02.309><c> in</c></c>
+
+00:01:02.430 --> 00:01:07.140 align:start position:19%
+Toronto<00:01:02.879><c> and</c><c.colorE5E5E5><00:01:03.030><c> asked</c><00:01:03.180><c> them</c><00:01:03.449><c> why</c><00:01:03.690><c> did</c><00:01:03.989><c> they</c><00:01:04.140><c> name</c></c>
+
+00:01:04.379 --> 00:01:08.790 align:start position:19%
+everything<c.colorCCCCCC><00:01:05.070><c> going</c><00:01:05.670><c> because</c></c><c.colorE5E5E5><00:01:06.030><c> to</c><00:01:06.659><c> me</c><00:01:06.810><c> boying</c></c>
+
+00:01:07.140 --> 00:01:11.430 align:start position:19%
+doesn't<00:01:07.560><c> say</c><00:01:07.710><c> concealer</c><00:01:08.220><c> I</c><00:01:08.250><c> didn't</c><00:01:08.640><c> I</c><00:01:08.729><c> don't</c>
+
+00:01:08.790 --> 00:01:12.450 align:start position:19%
+<c.colorE5E5E5>get</c><c.colorCCCCCC><00:01:09.240><c> boy</c></c><c.colorE5E5E5><00:01:09.600><c> I</c><00:01:10.080><c> understand</c><00:01:10.500><c> dear</c><00:01:10.619><c> a</c></c><c.colorCCCCCC><00:01:10.799><c> space-like</c><00:01:11.189><c> I</c></c>
+
+00:01:11.430 --> 00:01:14.790 align:start position:19%
+was<00:01:11.549><c> wondering</c><00:01:11.790><c> why</c><c.colorCCCCCC><00:01:11.880><c> didn't</c><00:01:12.030><c> they</c><00:01:12.119><c> just</c><00:01:12.150><c> call</c></c>
+
+00:01:12.450 --> 00:01:17.549 align:start position:19%
+<c.colorE5E5E5>it<00:01:12.630><c> erase</c><00:01:13.229><c> paste</c><00:01:13.590><c> airbrush</c><00:01:14.250><c> I</c><00:01:14.460><c> mean</c><00:01:14.580><c> race</c></c>
+
+00:01:14.790 --> 00:01:19.650 align:start position:19%
+paste<c.colorE5E5E5><00:01:15.180><c> whatever</c></c><c.colorCCCCCC><00:01:16.009><c> because</c><00:01:17.009><c> that's</c></c><c.colorE5E5E5><00:01:17.189><c> kind</c><00:01:17.490><c> of</c></c>
+
+00:01:17.549 --> 00:01:21.479 align:start position:19%
+<c.colorE5E5E5>iconic<00:01:18.090><c> to</c><00:01:18.210><c> me</c><00:01:18.299><c> I</c><00:01:18.330><c> feel</c></c><c.colorCCCCCC><00:01:18.509><c> like</c></c><c.colorE5E5E5><00:01:18.570><c> benefit</c><00:01:19.110><c> erase</c></c>
+
+00:01:19.650 --> 00:01:23.250 align:start position:19%
+paste<00:01:19.860><c> is</c><00:01:20.070><c> iconic</c><c.colorCCCCCC><00:01:20.490><c> I</c><00:01:20.729><c> don't</c><00:01:20.909><c> feel</c><00:01:21.060><c> like</c><00:01:21.150><c> bowing</c></c>
+
+00:01:21.479 --> 00:01:25.619 align:start position:19%
+is<00:01:21.810><c> but</c><00:01:22.080><c> supposedly</c><c.colorE5E5E5><00:01:22.409><c> boy</c><00:01:22.710><c> was</c><00:01:22.950><c> their</c><00:01:23.100><c> very</c></c>
+
+00:01:23.250 --> 00:01:28.229 align:start position:19%
+<c.colorCCCCCC>first<00:01:23.520><c> concealer</c><00:01:24.090><c> and</c><00:01:24.299><c> what</c><00:01:24.960><c> it</c><00:01:25.110><c> is</c><00:01:25.229><c> is</c><00:01:25.470><c> they</c></c>
+
+00:01:25.619 --> 00:01:30.270 align:start position:19%
+feel<c.colorE5E5E5><00:01:25.860><c> like</c><00:01:26.040><c> all</c></c><c.colorCCCCCC><00:01:26.250><c> your</c><00:01:26.549><c> flaws</c><00:01:26.820><c> are</c><00:01:27.360><c> boning</c><00:01:28.080><c> off</c></c>
+
+00:01:28.229 --> 00:01:32.100 align:start position:19%
+your<00:01:28.470><c> face</c><00:01:28.680><c> so</c><00:01:28.920><c> dark</c><00:01:29.220><c> circles</c><00:01:29.610><c> are</c><c.colorE5E5E5><00:01:29.729><c> bullying</c></c>
+
+00:01:30.270 --> 00:01:34.049 align:start position:19%
+off<00:01:30.450><c> and</c><00:01:30.810><c> blemishes</c><c.colorCCCCCC><00:01:31.140><c> are</c><00:01:31.409><c> blinging</c><00:01:31.799><c> off</c><00:01:31.920><c> your</c></c>
+
+00:01:32.100 --> 00:01:35.610 align:start position:19%
+face<c.colorE5E5E5><00:01:32.280><c> that</c><00:01:32.850><c> made</c><00:01:33.060><c> more</c><00:01:33.240><c> sense</c></c><c.colorCCCCCC><00:01:33.299><c> to</c><00:01:33.780><c> me</c><00:01:33.900><c> but</c></c>
+
+00:01:34.049 --> 00:01:37.759 align:start position:19%
+anyway<c.colorE5E5E5><00:01:34.200><c> back</c></c><c.colorCCCCCC><00:01:34.740><c> to</c><00:01:34.950><c> the</c><00:01:35.040><c> quality</c><00:01:35.340><c> of</c><00:01:35.490><c> the</c></c>
+
+00:01:35.610 --> 00:01:40.200 align:start position:19%
+concealer<00:01:36.030><c> it</c><00:01:36.180><c> just</c><00:01:36.390><c> doesn't</c><00:01:36.689><c> work</c><c.colorE5E5E5><00:01:36.750><c> for</c><00:01:36.810><c> me</c></c>
+
+00:01:37.759 --> 00:01:41.490 align:start position:19%
+it<00:01:38.759><c> doesn't</c><00:01:39.150><c> like</c><00:01:39.270><c> going</c><c.colorE5E5E5><00:01:39.630><c> on</c><00:01:39.780><c> and</c><00:01:39.990><c> on</c><00:01:40.049><c> about</c></c>
+
+00:01:40.200 --> 00:01:42.869 align:start position:19%
+the<00:01:40.409><c> name</c><00:01:40.530><c> wait</c><00:01:40.740><c> a</c><00:01:40.770><c> minute</c><00:01:41.100><c> we're</c><00:01:41.220><c> supposed</c><00:01:41.460><c> to</c>
+
+00:01:41.490 --> 00:01:45.479 align:start position:19%
+<c.colorE5E5E5>be<00:01:41.579><c> reviewing</c><00:01:41.970><c> this</c></c><c.colorCCCCCC><00:01:42.060><c> year</c><00:01:42.240><c> Jen</c></c><c.colorE5E5E5><00:01:42.450><c> it</c><00:01:42.689><c> just</c></c>
+
+00:01:42.869 --> 00:01:47.729 align:start position:19%
+<c.colorE5E5E5>doesn't<00:01:43.110><c> work</c><00:01:43.200><c> for</c><00:01:43.259><c> me</c><00:01:43.520><c> it's</c><00:01:44.520><c> got</c><00:01:44.850><c> a</c><00:01:44.880><c> very</c><00:01:45.329><c> very</c></c>
+
+00:01:45.479 --> 00:01:49.740 align:start position:19%
+light<00:01:46.200><c> coverage</c><c.colorE5E5E5><00:01:46.799><c> to</c><00:01:47.340><c> it</c></c>
+
+00:01:47.729 --> 00:01:52.470 align:start position:19%
+it's<00:01:48.149><c> supposed</c><00:01:48.479><c> to</c><c.colorE5E5E5><00:01:48.570><c> be</c><00:01:48.689><c> airbrush</c><00:01:49.200><c> so</c><00:01:49.500><c> maybe</c></c>
+
+00:01:49.740 --> 00:01:55.619 align:start position:19%
+it's<c.colorE5E5E5><00:01:50.009><c> like</c><00:01:50.310><c> one</c><00:01:50.579><c> swipe</c><00:01:50.970><c> of</c></c><c.colorCCCCCC><00:01:51.030><c> an</c><00:01:51.329><c> airbrush</c><00:01:51.840><c> it</c></c>
+
+00:01:52.470 --> 00:01:58.140 align:start position:19%
+just<00:01:52.799><c> I</c><00:01:53.600><c> don't</c><00:01:54.600><c> know</c><c.colorE5E5E5><00:01:54.810><c> who</c><00:01:55.049><c> this</c></c><c.colorCCCCCC><00:01:55.229><c> is</c><00:01:55.380><c> going</c><00:01:55.560><c> to</c></c>
+
+00:01:55.619 --> 00:02:00.659 align:start position:19%
+work<c.colorE5E5E5><00:01:55.649><c> for</c><00:01:56.100><c> unless</c><00:01:56.579><c> you</c><00:01:56.759><c> have</c><00:01:56.939><c> really</c></c><c.colorCCCCCC><00:01:57.719><c> really</c></c>
+
+00:01:58.140 --> 00:02:02.280 align:start position:19%
+light<00:01:58.710><c> dark</c><00:01:59.280><c> circles</c><c.colorE5E5E5><00:01:59.790><c> it</c><00:02:00.270><c> definitely</c></c>
+
+00:02:00.659 --> 00:02:03.719 align:start position:19%
+increase<00:02:01.049><c> on</c><00:02:01.259><c> me</c><00:02:01.409><c> so</c><c.colorE5E5E5><00:02:01.590><c> that's</c><00:02:01.770><c> a</c><00:02:01.890><c> good</c></c><c.colorCCCCCC><00:02:02.009><c> thing</c><00:02:02.070><c> if</c></c>
+
+00:02:02.280 --> 00:02:05.189 align:start position:19%
+you<00:02:02.340><c> have</c><00:02:02.460><c> fine</c><00:02:02.670><c> lines</c><c.colorCCCCCC><00:02:02.700><c> under</c><00:02:03.240><c> your</c><00:02:03.329><c> eyes</c><00:02:03.450><c> I</c><00:02:03.659><c> do</c></c>
+
+00:02:03.719 --> 00:02:07.829 align:start position:19%
+have<00:02:03.869><c> a</c><c.colorE5E5E5><00:02:03.899><c> little</c></c><c.colorCCCCCC><00:02:04.200><c> bit</c><00:02:04.290><c> of</c><00:02:04.320><c> fine</c><00:02:04.619><c> lines</c><00:02:04.860><c> right</c></c>
+
+00:02:05.189 --> 00:02:09.920 align:start position:19%
+here<c.colorCCCCCC><00:02:05.600><c> but</c><00:02:06.600><c> it</c><00:02:06.750><c> just</c><00:02:06.780><c> didn't</c><00:02:07.200><c> have</c><00:02:07.350><c> enough</c><00:02:07.380><c> on</c></c>
+
+00:02:07.829 --> 00:02:12.640 align:start position:19%
+for<00:02:08.129><c> me</c><00:02:08.280><c> so</c><00:02:08.520><c> that's</c><00:02:08.729><c> why</c><00:02:09.000><c> it's</c><00:02:09.179><c> at</c><c.colorCCCCCC><00:02:09.270><c> Number</c><00:02:09.539><c> ten</c></c>
+
+00:02:09.920 --> 00:02:14.950 align:start position:19%
+number<00:02:10.920><c> nine</c><00:02:11.280><c> are</c>
+
+00:02:12.640 --> 00:02:17.470 align:start position:19%
+I<00:02:12.670><c> spent</c><00:02:13.240><c> a</c><00:02:13.390><c> lot</c><c.colorCCCCCC><00:02:13.569><c> of</c></c><c.colorE5E5E5><00:02:13.630><c> money</c><00:02:13.990><c> on</c><00:02:14.170><c> and</c><00:02:14.380><c> I</c><00:02:14.470><c> am</c><00:02:14.560><c> quite</c></c>
+
+00:02:14.950 --> 00:02:20.740 align:start position:19%
+disappointed<c.colorCCCCCC><00:02:14.980><c> these</c><00:02:15.970><c> are</c><00:02:16.150><c> the</c><00:02:16.390><c> new</c></c><c.colorE5E5E5><00:02:16.750><c> Becca</c></c>
+
+00:02:17.470 --> 00:02:22.240 align:start position:19%
+<c.colorCCCCCC>liquid<00:02:18.310><c> crystal</c></c><c.colorE5E5E5><00:02:18.760><c> lift</c></c><c.colorCCCCCC><00:02:19.120><c> Stoppers</c><00:02:19.810><c> and</c><00:02:20.200><c> I</c><00:02:20.560><c> got</c></c>
+
+00:02:20.740 --> 00:02:24.940 align:start position:19%
+these<c.colorE5E5E5><00:02:20.950><c> because</c><00:02:21.250><c> I</c><00:02:21.340><c> wanted</c><00:02:21.610><c> to</c><00:02:21.670><c> put</c><00:02:21.910><c> them</c><00:02:22.030><c> over</c></c>
+
+00:02:22.240 --> 00:02:27.490 align:start position:19%
+lipsticks<00:02:22.870><c> as</c><00:02:23.080><c> an</c><00:02:23.260><c> iridescent</c><00:02:23.920><c> glow</c><c.colorCCCCCC><00:02:24.520><c> I</c><00:02:24.550><c> got</c></c>
+
+00:02:24.940 --> 00:02:31.270 align:start position:19%
+two<c.colorCCCCCC><00:02:25.180><c> different</c><00:02:25.600><c> shades</c></c><c.colorE5E5E5><00:02:25.900><c> this</c><00:02:26.380><c> one</c><00:02:26.709><c> is</c><00:02:27.010><c> called</c></c>
+
+00:02:27.490 --> 00:02:36.790 align:start position:19%
+topaz<00:02:28.420><c> and</c><c.colorE5E5E5><00:02:28.780><c> guilt</c><00:02:29.260><c> and</c><00:02:29.560><c> then</c><00:02:30.160><c> this</c><00:02:30.459><c> one</c><00:02:30.820><c> is</c></c>
+
+00:02:31.270 --> 00:02:38.590 align:start position:19%
+called<c.colorE5E5E5><00:02:34.500><c> amethyst</c><00:02:35.500><c> and</c><00:02:35.680><c> geode</c><00:02:36.340><c> I</c><00:02:36.550><c> like</c></c>
+
+00:02:36.790 --> 00:02:40.330 align:start position:19%
+amethyst<c.colorE5E5E5><00:02:37.180><c> and</c></c><c.colorCCCCCC><00:02:37.330><c> Gio</c><00:02:37.480><c> just</c><00:02:37.750><c> a</c><00:02:37.870><c> little</c><00:02:38.230><c> bit</c><00:02:38.350><c> more</c></c>
+
+00:02:38.590 --> 00:02:42.910 align:start position:19%
+I<00:02:38.620><c> feel</c><c.colorE5E5E5><00:02:38.920><c> like</c><00:02:39.040><c> the</c><00:02:39.130><c> iridescent</c><00:02:39.489><c> hangs</c><00:02:39.910><c> on</c><00:02:40.120><c> a</c></c>
+
+00:02:40.330 --> 00:02:45.850 align:start position:19%
+little<00:02:40.900><c> bit</c><00:02:41.020><c> better</c><00:02:41.200><c> but</c><00:02:41.590><c> this</c><00:02:41.800><c> one</c><00:02:42.100><c> here</c><00:02:42.580><c> it</c>
+
+00:02:42.910 --> 00:02:49.750 align:start position:19%
+really<c.colorE5E5E5><00:02:43.390><c> doesn't</c></c><c.colorCCCCCC><00:02:43.959><c> the</c><00:02:44.590><c> iridescent</c><00:02:44.890><c> is</c></c><c.colorE5E5E5><00:02:45.220><c> barely</c></c>
+
+00:02:45.850 --> 00:02:51.750 align:start position:19%
+<c.colorE5E5E5>even<00:02:46.060><c> there</c><00:02:46.720><c> and</c><00:02:47.590><c> if</c><00:02:48.070><c> you</c><00:02:48.250><c> even</c><00:02:48.700><c> say</c><00:02:49.150><c> a</c></c><c.colorCCCCCC><00:02:49.420><c> word</c></c>
+
+00:02:49.750 --> 00:02:54.760 align:start position:19%
+like<00:02:50.140><c> buh-buh-buh-buh-buh</c><00:02:50.980><c> buhbuh</c><00:02:51.010><c> buhbuh</c>
+
+00:02:51.750 --> 00:02:56.560 align:start position:19%
+<c.colorE5E5E5>it's<00:02:52.750><c> gone</c><00:02:52.959><c> as</c><00:02:53.769><c> soon</c><00:02:54.010><c> as</c><00:02:54.130><c> you</c></c><c.colorCCCCCC><00:02:54.250><c> mosha</c><00:02:54.489><c> lips</c></c>
+
+00:02:54.760 --> 00:02:58.150 align:start position:19%
+together<c.colorE5E5E5><00:02:54.940><c> in</c><00:02:55.330><c> any</c><00:02:55.510><c> way</c><00:02:55.780><c> the</c><00:02:55.959><c> iridescent</c><00:02:56.260><c> is</c></c>
+
+00:02:56.560 --> 00:02:59.320 align:start position:19%
+completely<00:02:57.040><c> gone</c><c.colorCCCCCC><00:02:57.190><c> so</c></c><c.colorE5E5E5><00:02:57.250><c> if</c><00:02:57.489><c> you're</c><00:02:57.610><c> posing</c></c><c.colorCCCCCC><00:02:57.850><c> for</c></c>
+
+00:02:58.150 --> 00:03:00.940 align:start position:19%
+<c.colorE5E5E5>Instagram<00:02:58.570><c> pictures</c></c><c.colorCCCCCC><00:02:58.840><c> or</c><00:02:58.930><c> something</c><00:02:59.230><c> like</c></c>
+
+00:02:59.320 --> 00:03:02.980 align:start position:19%
+<c.colorE5E5E5>that</c><c.colorCCCCCC><00:02:59.380><c> you</c><00:02:59.860><c> can</c><00:02:59.980><c> probably</c><00:03:00.220><c> get</c><00:03:00.459><c> a</c><00:03:00.489><c> very</c></c>
+
+00:03:00.940 --> 00:03:04.540 align:start position:19%
+beautiful<c.colorE5E5E5><00:03:01.239><c> photo</c><00:03:01.810><c> of</c><00:03:02.140><c> these</c><00:03:02.410><c> but</c><00:03:02.739><c> if</c><00:03:02.830><c> you're</c></c>
+
+00:03:02.980 --> 00:03:06.610 align:start position:19%
+actually<c.colorE5E5E5><00:03:03.190><c> wearing</c><00:03:03.489><c> these</c><00:03:03.700><c> as</c><00:03:03.880><c> a</c><00:03:03.910><c> functional</c></c>
+
+00:03:04.540 --> 00:03:08.709 align:start position:19%
+gloss<c.colorCCCCCC><00:03:04.870><c> that</c><00:03:05.200><c> you</c><00:03:05.530><c> want</c><00:03:05.800><c> to</c><00:03:05.920><c> look</c><00:03:05.980><c> iridescent</c></c>
+
+00:03:06.610 --> 00:03:10.360 align:start position:19%
+<c.colorCCCCCC>for<00:03:06.790><c> more</c></c><c.colorE5E5E5><00:03:06.970><c> than</c><00:03:07.150><c> five</c><00:03:07.360><c> minutes</c></c><c.colorCCCCCC><00:03:07.600><c> they're</c><00:03:08.470><c> just</c></c>
+
+00:03:08.709 --> 00:03:11.920 align:start position:19%
+not<00:03:08.830><c> functional</c><00:03:09.489><c> again</c><c.colorE5E5E5><00:03:09.670><c> this</c><00:03:09.940><c> one's</c><00:03:10.150><c> a</c><00:03:10.239><c> little</c></c>
+
+00:03:10.360 --> 00:03:14.140 align:start position:19%
+<c.colorE5E5E5>bit<00:03:10.480><c> better</c><00:03:10.720><c> I</c><00:03:10.870><c> do</c><00:03:11.019><c> like</c><00:03:11.380><c> the</c><00:03:11.500><c> way</c><00:03:11.590><c> this</c></c><c.colorCCCCCC><00:03:11.769><c> one</c></c>
+
+00:03:11.920 --> 00:03:16.540 align:start position:19%
+looks<00:03:12.130><c> on</c><00:03:12.310><c> its</c><00:03:12.459><c> own</c><c.colorCCCCCC><00:03:12.610><c> but</c></c><c.colorE5E5E5><00:03:13.239><c> for</c><00:03:13.480><c> the</c><00:03:13.600><c> price</c><00:03:13.840><c> I'd</c></c>
+
+00:03:14.140 --> 00:03:18.760 align:start position:19%
+rather<00:03:14.380><c> get</c><00:03:14.680><c> to</c><00:03:14.860><c> face</c><00:03:15.070><c> unicorn</c><00:03:15.760><c> tears</c><00:03:16.060><c> as</c><00:03:16.390><c> an</c>
+
+00:03:16.540 --> 00:03:21.280 align:start position:19%
+iridescent<00:03:16.900><c> topper</c><00:03:17.440><c> because</c><c.colorE5E5E5><00:03:17.560><c> it</c><00:03:18.190><c> really</c><00:03:18.549><c> does</c></c>
+
+00:03:18.760 --> 00:03:23.620 align:start position:19%
+meld<c.colorCCCCCC><00:03:19.150><c> into</c><00:03:19.780><c> the</c><00:03:19.930><c> lipsticks</c><00:03:20.470><c> that</c><00:03:20.620><c> you</c></c><c.colorE5E5E5><00:03:20.739><c> top</c></c><c.colorCCCCCC><00:03:21.100><c> it</c></c>
+
+00:03:21.280 --> 00:03:25.840 align:start position:19%
+over<00:03:21.640><c> and</c><00:03:21.910><c> really</c><c.colorCCCCCC><00:03:22.720><c> gives</c><00:03:23.079><c> you</c><00:03:23.200><c> an</c><00:03:23.290><c> iridescent</c></c>
+
+00:03:23.620 --> 00:03:27.370 align:start position:19%
+<c.colorCCCCCC>where<00:03:24.010><c> these</c><00:03:24.310><c> just</c><00:03:24.790><c> completely</c><00:03:25.180><c> disappear</c></c>
+
+00:03:25.840 --> 00:03:30.100 align:start position:19%
+<c.colorE5E5E5>and<00:03:26.019><c> that's</c><00:03:26.170><c> very</c><00:03:26.380><c> disappointing</c></c><c.colorCCCCCC><00:03:26.560><c> to</c><00:03:27.100><c> me</c></c><c.colorE5E5E5><00:03:27.130><c> so</c></c>
+
+00:03:27.370 --> 00:03:31.690 align:start position:19%
+for<00:03:27.790><c> the</c><00:03:27.880><c> price</c><00:03:28.090><c> point</c><c.colorE5E5E5><00:03:28.120><c> definitely</c><00:03:29.110><c> not</c><00:03:29.320><c> when</c></c>
+
+00:03:30.100 --> 00:03:33.100 align:start position:19%
+I<00:03:30.130><c> was</c><00:03:30.310><c> a</c><00:03:30.340><c> generation</c><00:03:30.790><c> Beauty</c><00:03:31.030><c> in</c><00:03:31.180><c> Toronto</c><00:03:31.660><c> I</c>
+
+00:03:31.690 --> 00:03:34.810 align:start position:19%
+was<00:03:32.019><c> standing</c><c.colorCCCCCC><00:03:32.350><c> next</c><00:03:32.470><c> to</c><00:03:32.560><c> a</c></c><c.colorE5E5E5><00:03:32.650><c> woman</c><00:03:32.920><c> who</c><00:03:33.010><c> had</c></c>
+
+00:03:33.100 --> 00:03:36.549 align:start position:19%
+showed<00:03:33.370><c> me</c><00:03:33.549><c> a</c><c.colorE5E5E5><00:03:33.579><c> Mac</c><00:03:33.940><c> product</c><00:03:34.390><c> that</c><00:03:34.510><c> she</c><00:03:34.660><c> was</c></c>
+
+00:03:34.810 --> 00:03:38.110 align:start position:19%
+<c.colorE5E5E5>wearing<00:03:35.140><c> I'll</c><00:03:35.290><c> put</c><00:03:35.500><c> a</c><00:03:35.530><c> photo</c><00:03:35.799><c> of</c><00:03:36.100><c> it</c><00:03:36.250><c> there</c></c><c.colorCCCCCC><00:03:36.430><c> she</c></c>
+
+00:03:36.549 --> 00:03:39.760 align:start position:19%
+let<c.colorE5E5E5><00:03:36.670><c> me</c><00:03:36.760><c> take</c></c><c.colorCCCCCC><00:03:36.790><c> a</c><00:03:36.910><c> picture</c><00:03:37.209><c> of</c></c><c.colorE5E5E5><00:03:37.269><c> it</c><00:03:37.420><c> that</c><00:03:37.870><c> may</c><00:03:38.049><c> be</c></c>
+
+00:03:38.110 --> 00:03:41.260 align:start position:19%
+a<c.colorE5E5E5><00:03:38.230><c> better</c></c><c.colorCCCCCC><00:03:38.470><c> choice</c></c><c.colorE5E5E5><00:03:38.799><c> instead</c><00:03:39.310><c> of</c><00:03:39.430><c> these</c><00:03:39.549><c> if</c></c>
+
+00:03:39.760 --> 00:03:43.239 align:start position:19%
+you're<c.colorE5E5E5><00:03:39.880><c> looking</c><00:03:40.180><c> for</c><00:03:40.360><c> an</c><00:03:40.420><c> iridescent</c><00:03:40.720><c> topper</c></c>
+
+00:03:41.260 --> 00:03:45.700 align:start position:19%
+<c.colorE5E5E5>now</c><c.colorCCCCCC><00:03:41.530><c> we're</c><00:03:42.100><c> getting</c><00:03:42.310><c> into</c></c><c.colorE5E5E5><00:03:42.430><c> things</c><00:03:42.730><c> that</c></c><c.colorCCCCCC><00:03:42.940><c> were</c></c>
+
+00:03:43.239 --> 00:03:47.769 align:start position:19%
+not<00:03:43.390><c> bad</c><00:03:43.780><c> they</c><00:03:44.200><c> just</c><c.colorE5E5E5><00:03:44.230><c> don't</c><00:03:44.890><c> fit</c><00:03:45.040><c> my</c><00:03:45.220><c> personal</c></c>
+
+00:03:45.700 --> 00:03:49.690 align:start position:19%
+tastes<00:03:45.970><c> this</c><c.colorE5E5E5><00:03:46.180><c> is</c></c><c.colorCCCCCC><00:03:46.239><c> the</c><00:03:46.750><c> pretty</c><00:03:47.079><c> vulgar</c><00:03:47.350><c> pre</c></c>
+
+00:03:47.769 --> 00:03:51.459 align:start position:19%
+<c.colorCCCCCC>birdie<00:03:48.160><c> eye</c><00:03:48.280><c> shadow</c><00:03:48.790><c> palette</c><00:03:49.239><c> and</c><00:03:49.360><c> I</c><00:03:49.420><c> got</c><00:03:49.570><c> this</c></c>
+
+00:03:49.690 --> 00:03:53.470 align:start position:19%
+specifically<00:03:50.200><c> because</c><c.colorE5E5E5><00:03:50.350><c> it</c><00:03:50.620><c> had</c><00:03:50.799><c> a</c><00:03:51.010><c> lot</c><00:03:51.430><c> of</c></c>
+
+00:03:51.459 --> 00:03:55.540 align:start position:19%
+<c.colorE5E5E5>bright</c><c.colorCCCCCC><00:03:51.910><c> colors</c><00:03:52.390><c> in</c></c><c.colorE5E5E5><00:03:52.420><c> it</c></c><c.colorCCCCCC><00:03:52.840><c> and</c><00:03:53.049><c> it</c></c><c.colorE5E5E5><00:03:53.170><c> was</c><00:03:53.260><c> different</c></c>
+
+00:03:53.470 --> 00:03:56.920 align:start position:19%
+<c.colorE5E5E5>than<00:03:53.739><c> anything</c><00:03:54.010><c> else</c><00:03:54.280><c> I</c><00:03:54.459><c> owned</c></c><c.colorCCCCCC><00:03:54.760><c> I'm</c><00:03:55.209><c> having</c></c>
+
+00:03:55.540 --> 00:03:59.530 align:start position:19%
+some<c.colorCCCCCC><00:03:55.690><c> trouble</c><00:03:55.959><c> with</c></c><c.colorE5E5E5><00:03:55.989><c> the</c><00:03:56.140><c> pigmentation</c><00:03:56.590><c> and</c></c>
+
+00:03:56.920 --> 00:04:01.630 align:start position:19%
+<c.colorE5E5E5>that<00:03:57.130><c> it's</c><00:03:57.310><c> too</c><00:03:57.730><c> pigmented</c><00:03:58.420><c> it's</c><00:03:59.140><c> very</c></c>
+
+00:03:59.530 --> 00:04:03.220 align:start position:19%
+difficult<00:04:00.190><c> to</c><c.colorE5E5E5><00:04:00.519><c> blend</c><00:04:00.880><c> it's</c><00:04:01.120><c> hard</c><00:04:01.299><c> to</c><00:04:01.390><c> get</c><00:04:01.510><c> the</c></c>
+
+00:04:01.630 --> 00:04:05.320 align:start position:19%
+shadows<c.colorCCCCCC><00:04:01.989><c> to</c><00:04:02.200><c> blend</c><00:04:02.470><c> into</c><00:04:02.680><c> each</c><00:04:02.799><c> other</c><00:04:03.100><c> at</c></c>
+
+00:04:03.220 --> 00:04:07.420 align:start position:19%
+least<c.colorE5E5E5><00:04:03.340><c> for</c><00:04:03.640><c> me</c><00:04:03.790><c> and</c><00:04:03.940><c> my</c><00:04:04.120><c> skill</c><00:04:04.480><c> level</c></c><c.colorCCCCCC><00:04:04.540><c> it's</c></c>
+
+00:04:05.320 --> 00:04:09.190 align:start position:19%
+<c.colorE5E5E5>difficult<00:04:05.799><c> for</c><00:04:05.950><c> me</c><00:04:06.010><c> to</c></c><c.colorCCCCCC><00:04:06.070><c> work</c><00:04:06.340><c> with</c><00:04:06.549><c> the</c><00:04:07.090><c> shade</c></c>
+
+00:04:07.420 --> 00:04:11.350 align:start position:19%
+selection<00:04:07.660><c> I</c><00:04:08.170><c> already</c><00:04:08.560><c> knew</c><00:04:08.709><c> when</c><00:04:08.859><c> I</c><00:04:08.890><c> bought</c>
+
+00:04:09.190 --> 00:04:12.549 align:start position:19%
+it<c.colorCCCCCC><00:04:09.220><c> wasn't</c><00:04:09.730><c> going</c></c><c.colorE5E5E5><00:04:09.880><c> to</c><00:04:09.970><c> be</c><00:04:10.150><c> a</c><00:04:10.359><c> complete</c><00:04:10.900><c> palette</c></c>
+
+00:04:11.350 --> 00:04:15.130 align:start position:19%
+<c.colorE5E5E5>and<00:04:11.500><c> that</c><00:04:11.620><c> I'm</c><00:04:11.709><c> going</c><00:04:11.859><c> to</c><00:04:11.920><c> have</c><00:04:12.010><c> to</c><00:04:12.070><c> reach</c></c><c.colorCCCCCC><00:04:12.280><c> for</c></c>
+
+00:04:12.549 --> 00:04:17.470 align:start position:19%
+other<00:04:12.700><c> palettes</c><00:04:13.480><c> in</c><00:04:13.630><c> order</c><00:04:13.930><c> to</c><00:04:14.109><c> use</c><00:04:14.350><c> this</c><00:04:14.590><c> but</c>
+
+00:04:15.130 --> 00:04:19.539 align:start position:19%
+I'm<00:04:15.220><c> just</c><c.colorCCCCCC><00:04:15.250><c> not</c><00:04:15.579><c> having</c></c><c.colorE5E5E5><00:04:15.820><c> fun</c><00:04:16.269><c> using</c><00:04:16.720><c> it</c><00:04:17.049><c> this</c></c>
+
+00:04:17.470 --> 00:04:22.270 align:start position:19%
+<c.colorE5E5E5>shape<00:04:17.680><c> here</c></c><c.colorCCCCCC><00:04:17.919><c> Snitch</c><00:04:18.400><c> is</c><00:04:18.640><c> a</c><00:04:18.700><c> little</c><00:04:19.060><c> bit</c><00:04:19.209><c> gritty</c></c>
+
+00:04:19.539 --> 00:04:23.440 align:start position:19%
+which<00:04:19.840><c> is</c><00:04:20.049><c> weird</c><c.colorE5E5E5><00:04:20.410><c> some</c><00:04:21.400><c> of</c><00:04:21.519><c> the</c></c><c.colorCCCCCC><00:04:21.609><c> purples</c><00:04:22.060><c> like</c></c>
+
+00:04:22.270 --> 00:04:25.550 align:start position:19%
+this<00:04:22.419><c> one</c><00:04:22.630><c> down</c><c.colorE5E5E5><00:04:22.810><c> here</c></c>
+
+00:04:23.440 --> 00:04:27.949 align:start position:19%
+fade<00:04:23.680><c> to</c><00:04:23.710><c> black</c><00:04:24.190><c> which</c>
+
+00:04:25.550 --> 00:04:30.949 align:start position:19%
+<c.colorCCCCCC>I<00:04:25.610><c> really</c><00:04:26.360><c> like</c><00:04:26.539><c> my</c><00:04:26.659><c> Purple's</c><00:04:27.080><c> to</c><00:04:27.169><c> stay</c></c><c.colorE5E5E5><00:04:27.470><c> purple</c></c>
+
+00:04:27.949 --> 00:04:34.400 align:start position:19%
+<c.colorE5E5E5>the<00:04:28.580><c> green</c><00:04:28.940><c> here</c></c><c.colorCCCCCC><00:04:29.330><c> is</c><00:04:29.509><c> beautiful</c><00:04:29.810><c> this</c><00:04:30.500><c> one</c><00:04:30.740><c> is</c></c>
+
+00:04:30.949 --> 00:04:37.879 align:start position:19%
+<c.colorE5E5E5>very<00:04:31.250><c> nice</c></c><c.colorCCCCCC><00:04:31.580><c> but</c></c><c.colorE5E5E5><00:04:32.539><c> it's</c><00:04:32.750><c> just</c><00:04:33.110><c> not</c><00:04:33.560><c> good</c></c><c.colorCCCCCC><00:04:34.099><c> enough</c></c>
+
+00:04:34.400 --> 00:04:40.009 align:start position:19%
+<c.colorCCCCCC>for</c><c.colorE5E5E5><00:04:35.300><c> what</c><00:04:35.810><c> I</c><00:04:35.840><c> want</c><00:04:36.440><c> and</c><00:04:36.800><c> I</c><00:04:37.310><c> shadow</c><00:04:37.610><c> palette</c></c>
+
+00:04:37.879 --> 00:04:41.720 align:start position:19%
+it's<00:04:38.000><c> not</c><00:04:38.240><c> what</c><00:04:38.990><c> I</c><00:04:39.020><c> like</c><00:04:39.470><c> to</c><c.colorE5E5E5><00:04:39.620><c> work</c><00:04:39.740><c> with</c></c><c.colorCCCCCC><00:04:39.770><c> I</c></c>
+
+00:04:40.009 --> 00:04:43.490 align:start position:19%
+<c.colorE5E5E5>don't<00:04:40.190><c> I</c><00:04:40.280><c> just</c><00:04:40.430><c> simply</c><00:04:40.729><c> just</c></c><c.colorCCCCCC><00:04:40.759><c> don't</c><00:04:41.090><c> have</c><00:04:41.389><c> fun</c></c>
+
+00:04:41.720 --> 00:04:45.620 align:start position:19%
+playing<c.colorE5E5E5><00:04:42.379><c> with</c><00:04:42.500><c> it</c><00:04:42.620><c> wear</c><00:04:42.889><c> some</c><00:04:43.099><c> eyeshadow</c></c>
+
+00:04:43.490 --> 00:04:46.940 align:start position:19%
+palettes<00:04:43.819><c> you're</c><00:04:43.970><c> like</c><00:04:44.150><c> this</c><00:04:44.810><c> is</c><00:04:44.990><c> fun</c><00:04:45.349><c> this</c>
+
+00:04:45.620 --> 00:04:49.849 align:start position:19%
+<c.colorCCCCCC>one's</c><c.colorE5E5E5><00:04:45.830><c> just</c></c><c.colorCCCCCC><00:04:45.889><c> not</c><00:04:46.159><c> fun</c><00:04:46.370><c> for</c></c><c.colorE5E5E5><00:04:46.610><c> me</c></c>
+
+00:04:46.940 --> 00:04:53.960 align:start position:19%
+moving<00:04:47.870><c> on</c><00:04:48.020><c> up</c><c.colorCCCCCC><00:04:48.050><c> so</c><00:04:48.800><c> we've</c><00:04:48.919><c> gotten</c></c><c.colorE5E5E5><00:04:49.310><c> a</c><00:04:49.370><c> naked</c></c>
+
+00:04:49.849 --> 00:04:55.550 align:start position:19%
+<c.colorE5E5E5>heat<00:04:50.060><c> palette</c><00:04:50.539><c> by</c><00:04:50.690><c> urban</c><00:04:50.960><c> decay</c><00:04:52.690><c> again</c><00:04:53.690><c> not</c><00:04:53.930><c> a</c></c>
+
+00:04:53.960 --> 00:04:58.280 align:start position:19%
+bad<00:04:54.169><c> palette</c><c.colorE5E5E5><00:04:54.650><c> it's</c><00:04:54.830><c> actually</c><00:04:55.190><c> a</c><00:04:55.250><c> pretty</c><00:04:55.430><c> good</c></c>
+
+00:04:55.550 --> 00:05:00.889 align:start position:19%
+<c.colorE5E5E5>palette<00:04:56.120><c> my</c><00:04:56.870><c> issue</c><00:04:57.080><c> with</c><00:04:57.349><c> this</c></c><c.colorCCCCCC><00:04:57.590><c> is</c><00:04:57.770><c> a</c><00:04:57.800><c> personal</c></c>
+
+00:04:58.280 --> 00:05:03.800 align:start position:19%
+preference<c.colorCCCCCC><00:04:58.520><c> issue</c><00:04:59.000><c> it's</c></c><c.colorE5E5E5><00:04:59.840><c> just</c><00:05:00.319><c> it's</c><00:05:00.530><c> too</c><00:05:00.860><c> much</c></c>
+
+00:05:00.889 --> 00:05:06.979 align:start position:19%
+<c.colorCCCCCC>of<00:05:01.069><c> the</c><00:05:01.340><c> same</c><00:05:01.580><c> shade</c><00:05:01.940><c> and</c><00:05:02.330><c> I</c><00:05:02.539><c> don't</c></c><c.colorE5E5E5><00:05:02.599><c> wear</c><00:05:03.169><c> this</c></c>
+
+00:05:03.800 --> 00:05:08.690 align:start position:19%
+shade<c.colorE5E5E5><00:05:04.190><c> enough</c><00:05:04.789><c> this</c><00:05:05.150><c> red</c><00:05:05.569><c> burnt</c><00:05:06.229><c> orange</c><00:05:06.500><c> kind</c></c>
+
+00:05:06.979 --> 00:05:10.039 align:start position:19%
+<c.colorE5E5E5>of<00:05:07.219><c> shade</c><00:05:07.490><c> I</c><00:05:07.789><c> really</c><00:05:08.090><c> see</c><00:05:08.270><c> a</c><00:05:08.300><c> lot</c></c><c.colorCCCCCC><00:05:08.360><c> of</c><00:05:08.509><c> red</c></c>
+
+00:05:08.690 --> 00:05:12.289 align:start position:19%
+<c.colorCCCCCC>people<00:05:09.020><c> are</c><00:05:09.169><c> swearing</c></c><c.colorE5E5E5><00:05:09.409><c> to</c><00:05:09.650><c> me</c><00:05:09.740><c> that</c><00:05:09.889><c> there's</c></c>
+
+00:05:10.039 --> 00:05:14.810 align:start position:19%
+orange<00:05:10.370><c> in</c><00:05:10.490><c> here</c><00:05:10.699><c> I</c><00:05:10.879><c> see</c><00:05:11.449><c> a</c><00:05:11.479><c> lot</c><00:05:11.719><c> of</c><00:05:11.750><c> red</c><00:05:11.990><c> that's</c>
+
+00:05:12.289 --> 00:05:16.219 align:start position:19%
+just<00:05:12.590><c> me</c><00:05:12.710><c> personally</c><c.colorCCCCCC><00:05:13.060><c> but</c><00:05:14.060><c> it's</c><00:05:14.300><c> just</c><00:05:14.509><c> there's</c></c>
+
+00:05:14.810 --> 00:05:18.080 align:start position:19%
+not<c.colorE5E5E5><00:05:14.960><c> a</c><00:05:15.020><c> variety</c></c><c.colorCCCCCC><00:05:15.259><c> of</c></c><c.colorE5E5E5><00:05:15.500><c> looks</c><00:05:15.770><c> that</c><00:05:15.919><c> can</c><00:05:16.069><c> be</c></c>
+
+00:05:16.219 --> 00:05:20.210 align:start position:19%
+<c.colorE5E5E5>created</c><c.colorCCCCCC><00:05:16.669><c> with</c><00:05:16.819><c> it</c><00:05:17.000><c> quality</c><00:05:17.419><c> is</c><00:05:17.539><c> very</c><00:05:17.569><c> good</c></c>
+
+00:05:18.080 --> 00:05:21.530 align:start position:19%
+though<c.colorCCCCCC><00:05:18.259><c> for</c><00:05:18.560><c> me</c><00:05:18.680><c> at</c><00:05:18.949><c> least</c><00:05:18.979><c> I</c><00:05:19.550><c> was</c><00:05:19.849><c> watching</c></c>
+
+00:05:20.210 --> 00:05:22.879 align:start position:19%
+Kathy<00:05:20.539><c> from</c><00:05:20.659><c> terrific</c><00:05:21.050><c> and</c><00:05:21.199><c> she</c><00:05:21.289><c> was</c><00:05:21.409><c> saying</c>
+
+00:05:21.530 --> 00:05:24.800 align:start position:19%
+she<c.colorE5E5E5><00:05:21.620><c> was</c><00:05:21.770><c> having</c></c><c.colorCCCCCC><00:05:21.860><c> problems</c></c><c.colorE5E5E5><00:05:22.370><c> with</c><00:05:22.490><c> these</c></c><c.colorCCCCCC><00:05:22.639><c> two</c></c>
+
+00:05:22.879 --> 00:05:26.780 align:start position:19%
+<c.colorCCCCCC>shape<00:05:23.150><c> I</c><00:05:23.389><c> didn't</c><00:05:23.719><c> have</c><00:05:23.900><c> that</c></c><c.colorE5E5E5><00:05:23.930><c> experience</c><00:05:24.199><c> I</c></c>
+
+00:05:24.800 --> 00:05:28.610 align:start position:19%
+had<00:05:25.190><c> more</c><c.colorE5E5E5><00:05:25.400><c> problems</c><00:05:25.819><c> with</c><00:05:25.969><c> these</c><00:05:26.150><c> two</c><00:05:26.419><c> shades</c></c>
+
+00:05:26.780 --> 00:05:30.289 align:start position:19%
+<c.colorE5E5E5>but<00:05:27.169><c> anyway</c><00:05:27.409><c> it's</c><00:05:27.620><c> a</c><00:05:27.710><c> nice</c><00:05:27.889><c> addition</c></c><c.colorCCCCCC><00:05:28.099><c> to</c><00:05:28.400><c> my</c></c>
+
+00:05:28.610 --> 00:05:32.150 align:start position:19%
+<c.colorCCCCCC>Naked<00:05:29.120><c> palette</c><00:05:29.150><c> collection</c><00:05:29.990><c> but</c><00:05:30.139><c> that's</c></c>
+
+00:05:30.289 --> 00:05:33.560 align:start position:19%
+pretty<c.colorE5E5E5><00:05:30.680><c> much</c></c><c.colorCCCCCC><00:05:30.800><c> it</c><00:05:30.979><c> I</c><00:05:31.250><c> don't</c><00:05:31.639><c> see</c><00:05:31.729><c> myself</c></c>
+
+00:05:32.150 --> 00:05:35.060 align:start position:19%
+reaching<c.colorE5E5E5><00:05:32.389><c> for</c></c><c.colorCCCCCC><00:05:32.569><c> it</c><00:05:32.810><c> a</c><00:05:32.870><c> whole</c><00:05:33.020><c> lot</c></c><c.colorE5E5E5><00:05:33.050><c> even</c></c><c.colorCCCCCC><00:05:33.440><c> though</c></c>
+
+00:05:33.560 --> 00:05:37.610 align:start position:19%
+<c.colorE5E5E5>the</c><c.colorCCCCCC><00:05:33.680><c> quality</c><00:05:34.069><c> is</c><00:05:34.159><c> there</c><00:05:34.310><c> it's</c><00:05:34.580><c> just</c></c><c.colorE5E5E5><00:05:34.729><c> a</c><00:05:34.849><c> shade</c></c>
+
+00:05:35.060 --> 00:05:39.680 align:start position:19%
+selection<c.colorE5E5E5><00:05:35.300><c> is</c><00:05:35.750><c> just</c><00:05:36.409><c> not</c><00:05:36.710><c> for</c><00:05:37.039><c> me</c></c><c.colorCCCCCC><00:05:37.069><c> personally</c></c>
+
+00:05:37.610 --> 00:05:42.440 align:start position:19%
+<c.colorE5E5E5>I<00:05:38.150><c> do</c><00:05:38.360><c> have</c><00:05:38.630><c> a</c><00:05:38.719><c> full</c><00:05:38.930><c> review</c><00:05:39.199><c> of</c></c><c.colorCCCCCC><00:05:39.259><c> this</c><00:05:39.469><c> that</c><00:05:39.620><c> I</c></c>
+
+00:05:39.680 --> 00:05:45.139 align:start position:19%
+will<00:05:39.889><c> link</c><00:05:40.069><c> below</c><c.colorE5E5E5><00:05:40.240><c> and</c><00:05:41.240><c> you</c><00:05:41.810><c> may</c><00:05:41.960><c> love</c><00:05:42.259><c> this</c></c>
+
+00:05:42.440 --> 00:05:46.819 align:start position:19%
+palette<00:05:42.620><c> it</c><00:05:42.889><c> just</c><c.colorE5E5E5><00:05:43.069><c> isn't</c><00:05:43.430><c> for</c><00:05:43.580><c> me</c><00:05:43.719><c> number</c></c><c.colorCCCCCC><00:05:44.719><c> six</c></c>
+
+00:05:45.139 --> 00:05:48.560 align:start position:19%
+is<00:05:45.319><c> a</c><00:05:45.349><c> product</c><00:05:45.889><c> that</c><c.colorE5E5E5><00:05:45.949><c> came</c><00:05:46.219><c> out</c><00:05:46.370><c> relatively</c></c>
+
+00:05:46.819 --> 00:05:51.680 align:start position:19%
+<c.colorE5E5E5>recently<00:05:47.330><c> from</c><00:05:47.599><c> L'Oreal</c><00:05:48.050><c> these</c><00:05:48.289><c> are</c><00:05:48.469><c> the</c></c>
+
+00:05:48.560 --> 00:05:54.349 align:start position:19%
+infallible<c.colorE5E5E5><00:05:48.919><c> paint</c><00:05:49.630><c> metallics</c><00:05:50.630><c> and</c><00:05:50.870><c> these</c></c>
+
+00:05:51.680 --> 00:05:56.840 align:start position:19%
+remind<00:05:52.069><c> me</c><00:05:52.190><c> a</c><00:05:52.219><c> lot</c><c.colorCCCCCC><00:05:52.610><c> of</c><00:05:52.909><c> the</c><00:05:53.090><c> regular</c><00:05:53.690><c> L'Oreal</c></c>
+
+00:05:54.349 --> 00:05:58.159 align:start position:19%
+infallible<00:05:54.590><c> shadows</c><00:05:55.520><c> except</c><00:05:56.150><c> for</c><00:05:56.330><c> the</c><00:05:56.449><c> format</c>
+
+00:05:56.840 --> 00:05:59.810 align:start position:19%
+of<c.colorCCCCCC><00:05:56.870><c> it</c></c><c.colorE5E5E5><00:05:57.110><c> if</c><00:05:57.349><c> you're</c><00:05:57.469><c> not</c><00:05:57.560><c> familiar</c><00:05:57.710><c> with</c><00:05:57.919><c> the</c></c>
+
+00:05:58.159 --> 00:06:01.039 align:start position:19%
+L'Oreal<00:05:58.490><c> infallible</c><c.colorCCCCCC><00:05:58.520><c> you</c><00:05:59.120><c> unscrew</c></c><c.colorE5E5E5><00:05:59.389><c> the</c><00:05:59.599><c> top</c></c>
+
+00:05:59.810 --> 00:06:03.379 align:start position:19%
+and<00:05:59.960><c> then</c><00:06:00.050><c> there's</c><00:06:00.229><c> like</c><c.colorCCCCCC><00:06:00.289><c> a</c></c><c.colorE5E5E5><00:06:00.349><c> little</c><00:06:00.560><c> stopper</c></c>
+
+00:06:01.039 --> 00:06:05.900 align:start position:19%
+inside<c.colorE5E5E5><00:06:01.190><c> that</c><00:06:01.639><c> you</c><00:06:01.849><c> pull</c><00:06:02.360><c> out</c><00:06:02.569><c> to</c><00:06:02.900><c> kind</c><00:06:03.110><c> of</c><00:06:03.169><c> keep</c></c>
+
+00:06:03.379 --> 00:06:07.550 align:start position:19%
+the<00:06:03.680><c> product</c><00:06:04.129><c> the</c><00:06:04.310><c> right</c><c.colorE5E5E5><00:06:04.550><c> texture</c><00:06:05.240><c> so</c></c><c.colorCCCCCC><00:06:05.569><c> that</c></c><c.colorE5E5E5><00:06:05.779><c> it</c></c>
+
+00:06:05.900 --> 00:06:08.960 align:start position:19%
+keeps<c.colorE5E5E5><00:06:06.229><c> the</c><00:06:06.440><c> proper</c><00:06:06.800><c> amount</c><00:06:07.009><c> of</c><00:06:07.099><c> moisture</c><00:06:07.520><c> in</c></c>
+
+00:06:07.550 --> 00:06:10.460 align:start position:19%
+<c.colorE5E5E5>there<00:06:07.789><c> at</c><00:06:07.909><c> least</c><00:06:08.090><c> that's</c><00:06:08.270><c> what</c></c><c.colorCCCCCC><00:06:08.360><c> I've</c><00:06:08.539><c> heard</c></c><c.colorE5E5E5><00:06:08.599><c> is</c></c>
+
+00:06:08.960 --> 00:06:11.870 align:start position:19%
+the<00:06:09.050><c> purpose</c><00:06:09.379><c> of</c><c.colorCCCCCC><00:06:09.469><c> it</c><00:06:09.529><c> and</c><00:06:09.860><c> you're</c><00:06:10.190><c> supposed</c><00:06:10.340><c> to</c></c>
+
+00:06:10.460 --> 00:06:13.460 align:start position:19%
+screw<00:06:10.669><c> the</c><00:06:10.789><c> top</c><00:06:10.940><c> on</c><00:06:11.000><c> pretty</c><00:06:11.389><c> tightly</c><c.colorE5E5E5><00:06:11.599><c> with</c></c>
+
+00:06:11.870 --> 00:06:14.960 align:start position:19%
+these<00:06:12.020><c> you</c><00:06:12.199><c> don't</c><c.colorE5E5E5><00:06:12.379><c> have</c><00:06:12.650><c> to</c><00:06:12.770><c> worry</c><00:06:13.009><c> about</c><00:06:13.159><c> it</c><00:06:13.430><c> I</c></c>
+
+00:06:13.460 --> 00:06:17.029 align:start position:19%
+<c.colorE5E5E5>think<00:06:13.639><c> these</c><00:06:13.789><c> are</c><00:06:13.849><c> like</c></c><c.colorCCCCCC><00:06:14.000><c> eight</c><00:06:14.360><c> dollars</c></c>
+
+00:06:14.960 --> 00:06:19.550 align:start position:19%
+<c.colorCCCCCC>apiece<00:06:15.409><c> which</c><00:06:15.889><c> is</c><00:06:16.039><c> pretty</c></c><c.colorE5E5E5><00:06:16.250><c> expensive</c><00:06:16.610><c> to</c><00:06:16.909><c> me</c></c>
+
+00:06:17.029 --> 00:06:21.319 align:start position:19%
+for<00:06:17.240><c> a</c><00:06:17.270><c> drugstore</c><00:06:17.599><c> single</c><00:06:18.319><c> eyeshadow</c><c.colorE5E5E5><00:06:18.889><c> so</c><00:06:19.460><c> the</c></c>
+
+00:06:19.550 --> 00:06:23.330 align:start position:19%
+considering<00:06:20.000><c> drugstore</c><00:06:20.419><c> eyeshadow</c><00:06:20.599><c> palettes</c>
+
+00:06:21.319 --> 00:06:25.279 align:start position:19%
+<c.colorCCCCCC>10:10<00:06:21.740><c> palettes</c><00:06:22.099><c> you</c><00:06:22.129><c> can</c><00:06:22.340><c> get</c><00:06:22.520><c> for</c><00:06:22.819><c> you</c><00:06:23.240><c> know</c></c>
+
+00:06:23.330 --> 00:06:27.409 align:start position:19%
+<c.colorCCCCCC>twenty<00:06:23.750><c> dollars</c><00:06:24.139><c> to</c><00:06:24.409><c> spend</c><00:06:24.620><c> eight</c><00:06:24.860><c> dollars</c></c>
+
+00:06:25.279 --> 00:06:28.759 align:start position:19%
+for<c.colorE5E5E5><00:06:25.310><c> one</c><00:06:25.789><c> shadow</c><00:06:26.150><c> just</c><00:06:26.599><c> seems</c><00:06:26.810><c> like</c><00:06:26.990><c> a</c><00:06:27.020><c> lot</c></c><c.colorCCCCCC><00:06:27.229><c> to</c></c>
+
+00:06:27.409 --> 00:06:30.860 align:start position:19%
+<c.colorCCCCCC>me<00:06:27.500><c> even</c></c><c.colorE5E5E5><00:06:27.650><c> though</c></c><c.colorCCCCCC><00:06:27.740><c> I</c><00:06:27.800><c> think</c></c><c.colorE5E5E5><00:06:27.919><c> the</c><00:06:28.159><c> grams</c><00:06:28.430><c> are</c><00:06:28.729><c> a</c></c>
+
+00:06:28.759 --> 00:06:34.039 align:start position:19%
+little<00:06:29.029><c> more</c><00:06:29.300><c> in</c><00:06:29.569><c> a</c><00:06:29.659><c> single</c><00:06:29.840><c> shadow</c><c.colorCCCCCC><00:06:30.199><c> these</c><00:06:30.590><c> are</c></c>
+
+00:06:30.860 --> 00:06:37.399 align:start position:19%
+really<00:06:31.610><c> good</c><00:06:31.789><c> quality</c><00:06:32.090><c> as</c><00:06:32.629><c> are</c><00:06:33.139><c> the</c><00:06:33.589><c> regular</c>
+
+00:06:34.039 --> 00:06:38.670 align:start position:19%
+L'Oreal<00:06:34.550><c> infallible</c><c.colorCCCCCC><00:06:34.930><c> but</c><00:06:35.930><c> they</c><00:06:36.860><c> do</c><00:06:36.919><c> tend</c></c><c.colorE5E5E5><00:06:37.310><c> to</c></c>
+
+00:06:37.399 --> 00:06:40.770 align:start position:19%
+muddy<00:06:37.639><c> together</c><00:06:38.000><c> a</c><00:06:38.089><c> little</c><c.colorE5E5E5><00:06:38.300><c> bit</c></c>
+
+00:06:38.670 --> 00:06:42.480 align:start position:19%
+lasting<00:06:39.090><c> power</c><00:06:39.270><c> is</c><00:06:39.630><c> just</c><c.colorE5E5E5><00:06:40.020><c> okay</c></c><c.colorCCCCCC><00:06:40.380><c> for</c><00:06:40.590><c> me</c><00:06:40.680><c> it</c></c>
+
+00:06:40.770 --> 00:06:45.300 align:start position:19%
+<c.colorE5E5E5>will<00:06:40.950><c> last</c><00:06:41.160><c> about</c><00:06:41.340><c> six</c></c><c.colorCCCCCC><00:06:41.640><c> hours</c><00:06:42.030><c> before</c></c><c.colorE5E5E5><00:06:42.210><c> they</c></c>
+
+00:06:42.480 --> 00:06:47.010 align:start position:19%
+start<00:06:42.810><c> fading</c><c.colorCCCCCC><00:06:43.140><c> of</c><00:06:43.530><c> quite</c><00:06:44.010><c> a</c><00:06:44.040><c> bit</c><00:06:44.310><c> and</c><00:06:44.580><c> it</c><00:06:45.030><c> looks</c></c>
+
+00:06:45.300 --> 00:06:49.260 align:start position:19%
+like<c.colorCCCCCC><00:06:45.390><c> my</c><00:06:45.600><c> eyeshadow</c><00:06:46.020><c> is</c><00:06:46.170><c> faded</c><00:06:46.470><c> so</c><00:06:46.620><c> the</c><00:06:46.770><c> last</c></c>
+
+00:06:47.010 --> 00:06:51.030 align:start position:19%
+you<00:06:47.280><c> through</c><c.colorE5E5E5><00:06:47.940><c> most</c><00:06:48.180><c> of</c><00:06:48.330><c> the</c><00:06:48.450><c> school</c><00:06:48.690><c> or</c><00:06:48.960><c> work</c></c>
+
+00:06:49.260 --> 00:06:55.110 align:start position:19%
+day<00:06:49.500><c> without</c><c.colorE5E5E5><00:06:49.710><c> significant</c><00:06:50.520><c> saving</c><00:06:50.880><c> at</c><00:06:50.970><c> least</c></c>
+
+00:06:51.030 --> 00:06:57.780 align:start position:19%
+<c.colorE5E5E5>they<00:06:51.300><c> do</c><00:06:51.360><c> on</c><00:06:51.660><c> me</c></c><c.colorCCCCCC><00:06:52.100><c> it's</c><00:06:53.100><c> just</c><00:06:53.520><c> they're</c><00:06:53.910><c> a</c><00:06:54.450><c> little</c></c>
+
+00:06:55.110 --> 00:07:00.150 align:start position:19%
+<c.colorE5E5E5>better<00:06:55.350><c> than</c><00:06:55.680><c> just</c><00:06:55.920><c> okay</c></c><c.colorCCCCCC><00:06:56.190><c> I</c></c><c.colorE5E5E5><00:06:56.820><c> don't</c><00:06:57.450><c> recommend</c></c>
+
+00:06:57.780 --> 00:07:02.190 align:start position:19%
+buying<00:06:58.050><c> the</c><00:06:58.350><c> whole</c><00:06:58.530><c> collection</c><c.colorE5E5E5><00:06:58.770><c> like</c><00:06:59.340><c> I</c><00:06:59.550><c> did</c><00:06:59.880><c> I</c></c>
+
+00:07:00.150 --> 00:07:03.990 align:start position:19%
+would<00:07:00.540><c> recommend</c><00:07:00.960><c> just</c><c.colorE5E5E5><00:07:00.990><c> buying</c><00:07:01.350><c> a</c><00:07:01.590><c> shade</c><00:07:02.070><c> or</c></c>
+
+00:07:02.190 --> 00:07:05.700 align:start position:19%
+two<c.colorE5E5E5><00:07:02.220><c> trying</c><00:07:02.820><c> out</c><00:07:03.000><c> the</c><00:07:03.090><c> formulas</c><00:07:03.540><c> if</c><00:07:03.690><c> you</c><00:07:03.780><c> like</c></c>
+
+00:07:03.990 --> 00:07:06.870 align:start position:19%
+it<00:07:04.170><c> and</c><c.colorE5E5E5><00:07:04.320><c> then</c><00:07:04.440><c> get</c><00:07:04.830><c> more</c><00:07:05.070><c> if</c><00:07:05.160><c> you</c><00:07:05.280><c> want</c><00:07:05.520><c> more</c></c>
+
+00:07:05.700 --> 00:07:09.270 align:start position:19%
+but<c.colorCCCCCC><00:07:05.880><c> I</c><00:07:05.940><c> definitely</c><00:07:06.270><c> don't</c></c><c.colorE5E5E5><00:07:06.330><c> recommend</c><00:07:06.510><c> buying</c></c>
+
+00:07:06.870 --> 00:07:11.460 align:start position:19%
+all<c.colorCCCCCC><00:07:07.170><c> of</c><00:07:07.380><c> them</c><00:07:07.530><c> at</c><00:07:07.800><c> once</c><00:07:08.220><c> they</c><00:07:08.610><c> do</c><00:07:08.670><c> come</c><00:07:08.940><c> in</c></c><c.colorE5E5E5><00:07:08.970><c> five</c></c>
+
+00:07:09.270 --> 00:07:15.240 align:start position:19%
+shades<00:07:09.630><c> so</c><00:07:09.870><c> we've</c><00:07:10.020><c> got</c><00:07:10.200><c> violet</c><c.colorE5E5E5><00:07:10.620><c> luster</c><00:07:11.100><c> we</c></c>
+
+00:07:11.460 --> 00:07:16.950 align:start position:19%
+have<c.colorCCCCCC><00:07:11.810><c> cages</c><00:07:12.810><c> we</c><00:07:13.350><c> have</c><00:07:13.560><c> aluminum</c><00:07:14.280><c> foil</c><00:07:14.820><c> which</c><00:07:15.120><c> i</c></c>
+
+00:07:15.240 --> 00:07:21.000 align:start position:19%
+think<00:07:15.300><c> is</c><00:07:15.450><c> a</c><c.colorE5E5E5><00:07:15.480><c> really</c><00:07:15.750><c> fun</c><00:07:16.020><c> shade</c><00:07:16.350><c> name</c><00:07:16.620><c> and</c></c>
+
+00:07:16.950 --> 00:07:24.240 align:start position:19%
+then<00:07:17.490><c> we</c><00:07:17.820><c> have</c><00:07:18.150><c> brass</c><00:07:18.720><c> knuckles</c><c.colorCCCCCC><00:07:19.530><c> and</c><00:07:20.000><c> finally</c></c>
+
+00:07:21.000 --> 00:07:26.610 align:start position:19%
+we<00:07:21.360><c> have</c><c.colorE5E5E5><00:07:21.600><c> rose</c><00:07:22.020><c> chrome</c><00:07:22.800><c> and</c><00:07:23.160><c> they</c><00:07:23.640><c> all</c><00:07:23.790><c> perform</c></c>
+
+00:07:24.240 --> 00:07:28.080 align:start position:19%
+very<00:07:24.480><c> consistently</c><00:07:25.290><c> the</c><00:07:25.500><c> same</c><c.colorCCCCCC><00:07:25.530><c> so</c><00:07:26.220><c> don't</c></c>
+
+00:07:26.610 --> 00:07:29.550 align:start position:19%
+worry<c.colorCCCCCC><00:07:26.730><c> about</c><00:07:27.090><c> one</c></c><c.colorE5E5E5><00:07:27.330><c> being</c><00:07:27.600><c> better</c><00:07:27.810><c> than</c><00:07:27.930><c> the</c></c>
+
+00:07:28.080 --> 00:07:30.990 align:start position:19%
+<c.colorCCCCCC>other<00:07:28.320><c> they're</c><00:07:28.650><c> all</c></c><c.colorE5E5E5><00:07:28.680><c> pretty</c><00:07:29.250><c> much</c><00:07:29.370><c> the</c><00:07:29.430><c> same</c></c>
+
+00:07:29.550 --> 00:07:33.600 align:start position:19%
+<c.colorE5E5E5>equalities<00:07:30.060><c> just</c><00:07:30.270><c> picking</c><00:07:30.540><c> the</c><00:07:30.630><c> shade</c></c><c.colorCCCCCC><00:07:30.840><c> that</c></c>
+
+00:07:30.990 --> 00:07:35.880 align:start position:19%
+<c.colorCCCCCC>you<00:07:31.110><c> like</c><00:07:31.290><c> the</c><00:07:31.440><c> best</c><00:07:31.670><c> now</c><00:07:32.670><c> we</c><00:07:32.730><c> have</c><00:07:33.060><c> another</c></c>
+
+00:07:33.600 --> 00:07:38.400 align:start position:19%
+product<00:07:34.140><c> from</c><c.colorE5E5E5><00:07:34.620><c> L'Oreal</c><00:07:35.370><c> this</c><00:07:35.610><c> is</c><00:07:35.730><c> the</c></c>
+
+00:07:35.880 --> 00:07:42.030 align:start position:19%
+voluminous<c.colorE5E5E5><00:07:36.210><c> last</c><00:07:36.840><c> paradise</c><00:07:37.350><c> mascara</c><00:07:37.920><c> this</c><00:07:38.220><c> is</c></c>
+
+00:07:38.400 --> 00:07:43.470 align:start position:19%
+new<00:07:38.970><c> I</c><00:07:39.510><c> do</c><00:07:40.170><c> really</c><00:07:40.650><c> like</c><00:07:40.920><c> this</c><00:07:41.190><c> a</c><c.colorE5E5E5><00:07:41.370><c> lot</c><00:07:41.700><c> and</c></c>
+
+00:07:42.030 --> 00:07:45.480 align:start position:19%
+people<c.colorCCCCCC><00:07:42.390><c> are</c><00:07:42.600><c> comparing</c><00:07:42.870><c> it</c><00:07:43.050><c> to</c><00:07:43.080><c> the</c><00:07:43.320><c> better</c></c>
+
+00:07:43.470 --> 00:07:48.600 align:start position:19%
+than<c.colorCCCCCC><00:07:43.740><c> sex</c><00:07:44.040><c> from</c><00:07:44.250><c> toothpaste</c><00:07:44.700><c> and</c><00:07:44.880><c> I</c><00:07:44.940><c> do</c><00:07:45.000><c> feel</c></c>
+
+00:07:45.480 --> 00:07:51.060 align:start position:19%
+like<c.colorCCCCCC><00:07:45.510><c> that</c><00:07:46.320><c> they</c><00:07:46.620><c> can</c><00:07:47.490><c> compare</c><00:07:48.030><c> but</c><00:07:48.450><c> I</c><00:07:48.480><c> do</c></c>
+
+00:07:48.600 --> 00:07:51.720 align:start position:19%
+actually<c.colorE5E5E5><00:07:48.960><c> like</c></c><c.colorCCCCCC><00:07:49.260><c> the</c></c><c.colorE5E5E5><00:07:49.650><c> L'Oreal</c><00:07:50.160><c> just</c><00:07:50.550><c> a</c><00:07:50.670><c> little</c></c>
+
+00:07:51.060 --> 00:07:54.390 align:start position:19%
+bit<00:07:51.240><c> better</c>
+
+00:07:51.720 --> 00:07:57.180 align:start position:19%
+I<00:07:51.930><c> feel</c><00:07:52.590><c> like</c><00:07:52.830><c> this</c><00:07:53.010><c> clumps</c><00:07:53.520><c> less</c><00:07:53.940><c> on</c><00:07:54.180><c> my</c>
+
+00:07:54.390 --> 00:07:59.160 align:start position:19%
+lashes<00:07:54.660><c> it's</c><00:07:55.140><c> a</c><00:07:55.260><c> less</c><00:07:55.560><c> heavy</c><00:07:55.950><c> formula</c><c.colorE5E5E5><00:07:56.850><c> at</c></c>
+
+00:07:57.180 --> 00:08:01.830 align:start position:19%
+least<00:07:57.600><c> for</c><00:07:57.840><c> me</c><00:07:57.960><c> I</c><c.colorE5E5E5><00:07:57.990><c> haven't</c><00:07:58.470><c> had</c><00:07:58.590><c> any</c><00:07:58.800><c> flaking</c></c>
+
+00:07:59.160 --> 00:08:04.470 align:start position:19%
+<c.colorE5E5E5>from<00:07:59.730><c> this</c><00:08:00.060><c> I</c><00:08:00.270><c> did</c><00:08:00.570><c> have</c><00:08:00.750><c> some</c><00:08:00.990><c> flaking</c><00:08:01.260><c> from</c></c>
+
+00:08:01.830 --> 00:08:06.690 align:start position:19%
+the<c.colorE5E5E5><00:08:02.190><c> Too</c><00:08:02.850><c> Faced</c><00:08:03.180><c> version</c><00:08:03.870><c> and</c><00:08:04.170><c> I</c><00:08:04.290><c> think</c></c>
+
+00:08:04.470 --> 00:08:08.370 align:start position:19%
+L'Oreal<00:08:04.800><c> did</c><00:08:04.980><c> a</c><00:08:05.010><c> wonderful</c><00:08:05.310><c> job</c><00:08:05.580><c> on</c><c.colorE5E5E5><00:08:06.150><c> this</c><00:08:06.480><c> I</c></c>
+
+00:08:06.690 --> 00:08:10.680 align:start position:19%
+only<00:08:07.080><c> complain</c><00:08:07.380><c> about</c><00:08:07.560><c> this</c><c.colorE5E5E5><00:08:07.770><c> is</c><00:08:07.980><c> it</c><00:08:08.130><c> does</c></c>
+
+00:08:08.370 --> 00:08:13.920 align:start position:19%
+<c.colorE5E5E5>clump<00:08:08.820><c> just</c><00:08:09.150><c> a</c><00:08:09.300><c> little</c><00:08:09.570><c> bit</c><00:08:09.720><c> but</c><00:08:09.960><c> it's</c><00:08:10.110><c> not</c><00:08:10.200><c> as</c></c>
+
+00:08:10.680 --> 00:08:16.350 align:start position:19%
+bad<c.colorCCCCCC><00:08:11.070><c> as</c><00:08:11.370><c> the</c><00:08:11.850><c> toothpaste</c></c><c.colorE5E5E5><00:08:12.540><c> one</c><00:08:12.870><c> for</c><00:08:13.200><c> me</c><00:08:13.380><c> but</c></c>
+
+00:08:13.920 --> 00:08:18.150 align:start position:19%
+<c.colorE5E5E5>overall<00:08:14.250><c> I</c><00:08:14.610><c> really</c><00:08:15.060><c> really</c><00:08:15.300><c> like</c><00:08:15.540><c> it</c><00:08:15.780><c> no</c><00:08:16.110><c> big</c></c>
+
+00:08:16.350 --> 00:08:20.310 align:start position:19%
+complaints<c.colorE5E5E5><00:08:16.980><c> I</c><00:08:17.130><c> also</c><00:08:17.310><c> really</c><00:08:17.790><c> like</c><00:08:17.970><c> the</c></c>
+
+00:08:18.150 --> 00:08:22.670 align:start position:19%
+L'Oreal<00:08:18.480><c> voluminous</c><00:08:18.660><c> original</c><00:08:19.620><c> mascara</c><00:08:20.070><c> but</c>
+
+00:08:20.310 --> 00:08:25.110 align:start position:19%
+<c.colorE5E5E5>I<00:08:20.370><c> like</c><00:08:20.610><c> this</c><00:08:20.760><c> one</c><00:08:20.940><c> just</c><00:08:21.210><c> a</c></c><c.colorCCCCCC><00:08:21.390><c> little</c></c><c.colorE5E5E5><00:08:21.870><c> bit</c><00:08:22.020><c> more</c></c>
+
+00:08:22.670 --> 00:08:27.180 align:start position:19%
+<c.colorE5E5E5>number<00:08:23.670><c> four</c><00:08:23.940><c> is</c><00:08:24.210><c> the</c></c><c.colorCCCCCC><00:08:24.240><c> marvelous</c><00:08:24.660><c> moles</c></c>
+
+00:08:25.110 --> 00:08:28.440 align:start position:19%
+palette<00:08:25.560><c> by</c><00:08:25.710><c> dose</c><00:08:25.980><c> of</c><00:08:26.160><c> colors</c><00:08:26.580><c> another</c><00:08:26.970><c> one</c>
+
+00:08:27.180 --> 00:08:30.780 align:start position:19%
+<c.colorCCCCCC>that<00:08:27.300><c> I</c><00:08:27.360><c> was</c></c><c.colorE5E5E5><00:08:27.480><c> planning</c><00:08:27.750><c> on</c></c><c.colorCCCCCC><00:08:27.810><c> doing</c><00:08:28.080><c> a</c><00:08:28.170><c> full</c></c>
+
+00:08:28.440 --> 00:08:33.030 align:start position:19%
+<c.colorCCCCCC>review<00:08:28.920><c> of</c><00:08:29.100><c> and</c><00:08:29.400><c> I</c></c><c.colorE5E5E5><00:08:29.460><c> just</c><00:08:29.670><c> haven't</c><00:08:30.030><c> done</c></c><c.colorCCCCCC><00:08:30.180><c> it</c><00:08:30.360><c> yet</c></c>
+
+00:08:30.780 --> 00:08:35.310 align:start position:19%
+I<00:08:30.810><c> really</c><00:08:31.770><c> like</c><00:08:31.950><c> the</c><00:08:32.070><c> quality</c><c.colorCCCCCC><00:08:32.280><c> these</c><00:08:32.640><c> shadows</c></c>
+
+00:08:33.030 --> 00:08:38.520 align:start position:19%
+I<00:08:33.240><c> am</c><c.colorE5E5E5><00:08:33.300><c> most</c><00:08:33.780><c> impressed</c><00:08:34.050><c> with</c><00:08:34.560><c> this</c><00:08:34.710><c> lightest</c></c>
+
+00:08:35.310 --> 00:08:42.270 align:start position:19%
+<c.colorE5E5E5>mauve<00:08:35.700><c> shade</c><00:08:35.729><c> this</c><00:08:36.660><c> thing</c><00:08:36.900><c> is</c><00:08:37.050><c> so</c><00:08:37.560><c> sick</c><00:08:38.340><c> and</c></c>
+
+00:08:38.520 --> 00:08:45.000 align:start position:19%
+opaque<00:08:39.180><c> it</c><00:08:39.479><c> is</c><00:08:40.310><c> amazing</c><c.colorE5E5E5><00:08:41.310><c> i</c></c><c.colorCCCCCC><00:08:41.460><c> was</c><00:08:41.640><c> shocked</c><00:08:42.120><c> when</c></c>
+
+00:08:42.270 --> 00:08:48.300 align:start position:19%
+i<00:08:42.360><c> swatched</c><00:08:42.690><c> like</c><c.colorE5E5E5><00:08:42.990><c> i</c><00:08:43.170><c> literally</c><00:08:43.620><c> would</c><00:08:43.910><c> when</c></c><c.colorCCCCCC><00:08:44.910><c> i</c></c>
+
+00:08:45.000 --> 00:08:50.730 align:start position:19%
+first<c.colorCCCCCC><00:08:45.270><c> launched</c><00:08:45.780><c> it</c><00:08:45.930><c> using</c><00:08:46.560><c> it</c><00:08:46.680><c> is</c><00:08:46.830><c> so</c><00:08:47.280><c> easy</c></c><c.colorE5E5E5><00:08:47.790><c> so</c></c>
+
+00:08:48.300 --> 00:08:52.290 align:start position:19%
+if<00:08:48.630><c> you</c><00:08:48.840><c> like</c><00:08:49.140><c> these</c><00:08:49.350><c> kinds</c><c.colorE5E5E5><00:08:49.740><c> of</c><00:08:49.830><c> shades</c></c><c.colorCCCCCC><00:08:50.070><c> I</c></c>
+
+00:08:50.730 --> 00:08:54.959 align:start position:19%
+<c.colorE5E5E5>recommend<00:08:51.329><c> it</c><00:08:51.510><c> I</c><00:08:51.660><c> don't</c><00:08:51.930><c> feel</c><00:08:52.019><c> it's</c></c>
+
+00:08:52.290 --> 00:08:56.490 align:start position:19%
+overpriced<c.colorE5E5E5><00:08:52.800><c> before</c><00:08:53.490><c> what</c><00:08:54.120><c> it</c><00:08:54.269><c> is</c><00:08:54.510><c> and</c><00:08:54.839><c> what</c></c>
+
+00:08:54.959 --> 00:08:58.290 align:start position:19%
+<c.colorE5E5E5>you<00:08:55.019><c> get</c><00:08:55.290><c> just</c></c><c.colorCCCCCC><00:08:55.350><c> because</c><00:08:55.769><c> the</c><00:08:55.860><c> quality</c><00:08:56.130><c> is</c><00:08:56.370><c> so</c></c>
+
+00:08:56.490 --> 00:09:01.079 align:start position:19%
+<c.colorCCCCCC>good<00:08:56.670><c> you</c><00:08:57.029><c> do</c><00:08:57.149><c> get</c><00:08:57.329><c> the</c><00:08:57.449><c> double-sided</c></c><c.colorE5E5E5><00:08:57.810><c> brush</c></c>
+
+00:08:58.290 --> 00:09:03.990 align:start position:19%
+<c.colorE5E5E5>and<00:08:58.500><c> it</c><00:08:58.620><c> is</c><00:08:58.740><c> a</c><00:08:58.769><c> nice</c><00:08:59.190><c> brush</c><00:08:59.670><c> it's</c><00:09:00.540><c> definitely</c></c>
+
+00:09:01.079 --> 00:09:06.269 align:start position:19%
+usable<c.colorE5E5E5><00:09:01.529><c> and</c><00:09:01.889><c> the</c><00:09:02.790><c> shades</c><00:09:03.089><c> are</c><00:09:03.300><c> really</c><00:09:03.540><c> fun</c></c><c.colorCCCCCC><00:09:03.810><c> to</c></c>
+
+00:09:03.990 --> 00:09:08.790 align:start position:19%
+<c.colorCCCCCC>use<00:09:04.230><c> as</c><00:09:04.529><c> a</c><00:09:04.800><c> complete</c><00:09:05.190><c> look</c><00:09:05.399><c> I</c><00:09:05.519><c> have</c><00:09:05.790><c> used</c><00:09:06.089><c> this</c></c>
+
+00:09:06.269 --> 00:09:10.709 align:start position:19%
+just<00:09:06.899><c> by</c><00:09:07.170><c> itself</c><00:09:07.560><c> without</c><c.colorCCCCCC><00:09:07.769><c> any</c><00:09:08.100><c> other</c><00:09:08.339><c> shadows</c></c>
+
+00:09:08.790 --> 00:09:12.779 align:start position:19%
+<c.colorCCCCCC>I<00:09:09.000><c> do</c><00:09:09.180><c> kind</c><00:09:09.630><c> of</c><00:09:09.690><c> like</c></c><c.colorE5E5E5><00:09:09.750><c> to</c><00:09:09.990><c> tend</c><00:09:10.230><c> to</c><00:09:10.290><c> reach</c><00:09:10.529><c> in</c></c>
+
+00:09:10.709 --> 00:09:14.760 align:start position:19%
+and<c.colorE5E5E5><00:09:10.800><c> grab</c></c><c.colorCCCCCC><00:09:10.889><c> some</c></c><c.colorE5E5E5><00:09:11.279><c> other</c></c><c.colorCCCCCC><00:09:11.579><c> palettes</c><00:09:12.180><c> with</c><00:09:12.360><c> it</c><00:09:12.540><c> but</c></c>
+
+00:09:12.779 --> 00:09:17.459 align:start position:19%
+you<00:09:12.930><c> can</c><c.colorCCCCCC><00:09:12.959><c> use</c><00:09:13.529><c> this</c><00:09:13.680><c> on</c><00:09:13.949><c> its</c><00:09:14.160><c> own</c><00:09:14.279><c> as</c><00:09:14.730><c> a</c></c>
+
+00:09:14.760 --> 00:09:19.050 align:start position:19%
+complete<00:09:15.329><c> look</c><00:09:15.540><c> and</c><00:09:15.779><c> just</c><00:09:16.769><c> really</c><c.colorCCCCCC><00:09:17.130><c> liked</c><00:09:17.279><c> it</c><00:09:17.399><c> a</c></c>
+
+00:09:17.459 --> 00:09:21.720 align:start position:19%
+lot<c.colorCCCCCC><00:09:17.610><c> it's</c></c><c.colorE5E5E5><00:09:17.820><c> very</c></c><c.colorCCCCCC><00:09:17.850><c> high</c></c><c.colorE5E5E5><00:09:18.149><c> quality</c><00:09:18.209><c> lasting</c><00:09:18.930><c> power</c></c>
+
+00:09:19.050 --> 00:09:23.130 align:start position:19%
+is<00:09:19.320><c> fantastic</c><c.colorE5E5E5><00:09:20.250><c> and</c><00:09:20.430><c> it's</c><00:09:20.850><c> wonderful</c><00:09:21.420><c> I</c></c><c.colorCCCCCC><00:09:21.600><c> have</c></c>
+
+00:09:21.720 --> 00:09:25.500 align:start position:19%
+nothing<00:09:22.050><c> bad</c><c.colorE5E5E5><00:09:22.139><c> to</c><00:09:22.199><c> say</c></c><c.colorCCCCCC><00:09:22.380><c> about</c><00:09:22.740><c> it</c></c>
+
+00:09:23.130 --> 00:09:27.510 align:start position:19%
+another<00:09:23.910><c> very</c><00:09:24.300><c> wonderful</c><00:09:25.019><c> product</c><c.colorCCCCCC><00:09:25.350><c> that</c><00:09:25.470><c> I</c></c>
+
+00:09:25.500 --> 00:09:29.610 align:start position:19%
+<c.colorCCCCCC>have<00:09:25.589><c> nothing</c><00:09:25.800><c> bad</c><00:09:26.160><c> to</c><00:09:26.190><c> say</c><00:09:26.399><c> about</c><00:09:26.579><c> this</c><00:09:27.269><c> is</c></c>
+
+00:09:27.510 --> 00:09:30.750 align:start position:19%
+the<c.colorCCCCCC><00:09:28.019><c> I</c><00:09:28.620><c> know</c><00:09:28.680><c> it</c><00:09:28.829><c> looks</c></c><c.colorE5E5E5><00:09:28.949><c> really</c></c><c.colorCCCCCC><00:09:29.100><c> weird</c><00:09:29.339><c> I</c><00:09:29.430><c> took</c></c>
+
+00:09:29.610 --> 00:09:32.250 align:start position:19%
+it<00:09:29.730><c> out</c><c.colorE5E5E5><00:09:29.760><c> of</c></c><c.colorCCCCCC><00:09:29.820><c> the</c></c><c.colorE5E5E5><00:09:29.910><c> pack</c><00:09:30.089><c> mode</c><00:09:30.389><c> but</c><00:09:30.570><c> outer</c></c>
+
+00:09:30.750 --> 00:09:34.800 align:start position:19%
+packaging<00:09:31.199><c> but</c><c.colorE5E5E5><00:09:31.350><c> I</c><00:09:31.410><c> saw</c><00:09:31.589><c> it</c><00:09:31.740><c> in</c><00:09:31.829><c> the</c><00:09:31.920><c> plastic</c></c>
+
+00:09:32.250 --> 00:09:38.370 align:start position:19%
+<c.colorE5E5E5>these<00:09:32.639><c> are</c></c><c.colorCCCCCC><00:09:32.730><c> the</c><00:09:32.910><c> Ulta</c><00:09:33.360><c> foundation</c><00:09:34.110><c> adjusting</c></c>
+
+00:09:34.800 --> 00:09:40.290 align:start position:19%
+drops<c.colorE5E5E5><00:09:35.339><c> these</c><00:09:35.850><c> are</c><00:09:36.209><c> so</c><00:09:36.829><c> good</c><00:09:37.829><c> they</c><00:09:38.070><c> give</c><00:09:38.220><c> you</c><00:09:38.279><c> a</c></c>
+
+00:09:38.370 --> 00:09:42.240 align:start position:19%
+<c.colorE5E5E5>little<00:09:38.639><c> mixing</c><00:09:39.149><c> tray</c><00:09:39.420><c> here</c><00:09:39.660><c> so</c><00:09:39.810><c> you</c><00:09:39.930><c> can</c><00:09:40.110><c> hold</c></c>
+
+00:09:40.290 --> 00:09:45.660 align:start position:19%
+this<00:09:40.529><c> like</c><00:09:40.800><c> this</c><c.colorCCCCCC><00:09:40.829><c> and</c><00:09:41.310><c> you</c><00:09:41.730><c> can</c><00:09:41.910><c> mix</c><00:09:42.149><c> your</c></c>
+
+00:09:42.240 --> 00:09:47.760 align:start position:19%
+foundations<00:09:43.019><c> like</c><c.colorE5E5E5><00:09:43.290><c> artists</c><00:09:43.949><c> and</c><00:09:44.279><c> I</c><00:09:45.120><c> like</c><00:09:45.389><c> that</c></c>
+
+00:09:45.660 --> 00:09:50.699 align:start position:19%
+I've<c.colorE5E5E5><00:09:46.079><c> used</c><00:09:46.380><c> both</c></c><c.colorCCCCCC><00:09:46.560><c> the</c><00:09:46.800><c> darkening</c><00:09:47.250><c> and</c><00:09:47.459><c> the</c></c>
+
+00:09:47.760 --> 00:09:52.050 align:start position:19%
+lightening<c.colorE5E5E5><00:09:48.269><c> I</c><00:09:48.510><c> mostly</c><00:09:48.990><c> use</c><00:09:49.350><c> the</c><00:09:49.889><c> darkening</c></c>
+
+00:09:50.699 --> 00:09:53.699 align:start position:19%
+because<c.colorE5E5E5><00:09:51.060><c> I</c><00:09:51.180><c> don't</c><00:09:51.360><c> have</c><00:09:51.570><c> a</c><00:09:51.600><c> lot</c><00:09:51.839><c> of</c><00:09:51.870><c> dark</c></c>
+
+00:09:52.050 --> 00:09:55.440 align:start position:19%
+foundations<00:09:52.560><c> that</c><c.colorE5E5E5><00:09:52.620><c> I</c><00:09:52.769><c> need</c><00:09:52.949><c> to</c><00:09:53.100><c> lighten</c><00:09:53.339><c> and</c></c>
+
+00:09:53.699 --> 00:09:57.240 align:start position:19%
+it's<00:09:54.029><c> also</c><c.colorE5E5E5><00:09:54.269><c> I'm</c><00:09:54.720><c> getting</c><00:09:54.959><c> a</c><00:09:55.019><c> little</c><00:09:55.170><c> bit</c><00:09:55.350><c> of</c></c>
+
+00:09:55.440 --> 00:09:58.829 align:start position:19%
+Sun<00:09:55.620><c> on</c><00:09:55.709><c> my</c><c.colorCCCCCC><00:09:55.829><c> face</c><00:09:56.040><c> here</c><00:09:56.339><c> in</c><00:09:56.459><c> there</c><00:09:56.699><c> so</c><00:09:56.970><c> some</c></c>
+
+00:09:57.240 --> 00:10:01.319 align:start position:19%
+days<00:09:57.480><c> I</c><c.colorCCCCCC><00:09:57.690><c> feel</c><00:09:57.870><c> like</c><00:09:57.959><c> I</c><00:09:58.050><c> need</c><00:09:58.199><c> my</c><00:09:58.319><c> foundation</c></c><c.colorE5E5E5><00:09:58.769><c> to</c></c>
+
+00:09:58.829 --> 00:10:03.060 align:start position:19%
+be<00:09:58.920><c> a</c><00:09:58.949><c> little</c><c.colorE5E5E5><00:09:59.220><c> bit</c><00:09:59.430><c> darker</c><00:09:59.940><c> and</c><00:10:00.209><c> it</c><00:10:00.600><c> seems</c><00:10:00.899><c> like</c></c>
+
+00:10:01.319 --> 00:10:05.310 align:start position:19%
+this<00:10:01.529><c> is</c><c.colorCCCCCC><00:10:01.589><c> a</c><00:10:01.740><c> little</c><00:10:01.949><c> bit</c><00:10:02.190><c> warm</c><00:10:02.550><c> tone</c><00:10:02.790><c> but</c><00:10:03.029><c> I</c></c>
+
+00:10:03.060 --> 00:10:07.769 align:start position:19%
+find<00:10:03.360><c> when</c><00:10:03.510><c> I</c><00:10:03.540><c> mix</c><00:10:03.839><c> it</c><00:10:03.990><c> into</c><c.colorE5E5E5><00:10:04.199><c> my</c></c><c.colorCCCCCC><00:10:04.470><c> foundation</c><00:10:05.040><c> it</c></c>
+
+00:10:05.310 --> 00:10:10.019 align:start position:19%
+doesn't<00:10:05.730><c> bring</c><00:10:05.970><c> my</c><00:10:06.149><c> foundations</c><00:10:06.870><c> warm</c><00:10:07.470><c> which</c>
+
+00:10:07.769 --> 00:10:12.029 align:start position:19%
+really<00:10:08.069><c> surprised</c><00:10:08.610><c> me</c><c.colorCCCCCC><00:10:08.790><c> and</c><00:10:09.149><c> I</c><00:10:09.420><c> do</c><00:10:09.480><c> like</c><00:10:09.839><c> using</c></c>
+
+00:10:10.019 --> 00:10:13.470 align:start position:19%
+<c.colorE5E5E5>the<00:10:10.350><c> little</c><00:10:10.529><c> tray</c><00:10:10.920><c> so</c><00:10:11.459><c> basically</c><00:10:11.790><c> what</c><00:10:11.910><c> I</c><00:10:11.940><c> do</c></c>
+
+00:10:12.029 --> 00:10:15.690 align:start position:19%
+<c.colorE5E5E5>is<00:10:12.240><c> I</c><00:10:12.300><c> just</c><00:10:12.329><c> kind</c><00:10:12.660><c> of</c><00:10:12.690><c> squirt</c><00:10:12.990><c> some</c><00:10:13.199><c> of</c><00:10:13.319><c> my</c></c>
+
+00:10:13.470 --> 00:10:17.819 align:start position:19%
+foundation<c.colorE5E5E5><00:10:13.620><c> here</c><00:10:14.279><c> I</c><00:10:14.430><c> put</c><00:10:14.850><c> a</c><00:10:14.880><c> pump</c><00:10:15.180><c> of</c><00:10:15.420><c> the</c></c>
+
+00:10:15.690 --> 00:10:20.850 align:start position:19%
+brown<00:10:16.110><c> and</c><c.colorCCCCCC><00:10:16.139><c> I</c><00:10:16.560><c> mix</c><00:10:16.860><c> it</c><00:10:16.980><c> together</c><00:10:17.160><c> like</c><00:10:17.579><c> this</c></c>
+
+00:10:17.819 --> 00:10:23.670 align:start position:19%
+and<c.colorCCCCCC><00:10:18.089><c> then</c><00:10:18.510><c> I</c><00:10:18.600><c> slowly</c><00:10:19.019><c> add</c><00:10:19.500><c> more</c></c><c.colorE5E5E5><00:10:19.920><c> of</c><00:10:20.190><c> one</c><00:10:20.459><c> or</c><00:10:20.699><c> the</c></c>
+
+00:10:20.850 --> 00:10:25.110 align:start position:19%
+other<c.colorE5E5E5><00:10:21.060><c> depending</c><00:10:21.720><c> on</c><00:10:22.069><c> what</c><00:10:23.069><c> I</c><00:10:23.100><c> feel</c><00:10:23.459><c> is</c></c>
+
+00:10:23.670 --> 00:10:26.610 align:start position:19%
+<c.colorCCCCCC>happening<00:10:24.089><c> there</c><00:10:24.240><c> I'll</c><00:10:24.329><c> take</c><00:10:24.540><c> a</c><00:10:24.569><c> dip</c><00:10:24.870><c> I</c><00:10:24.959><c> don't</c></c>
+
+00:10:25.110 --> 00:10:28.470 align:start position:19%
+kind<c.colorCCCCCC><00:10:25.260><c> of</c><00:10:25.410><c> go</c><00:10:25.500><c> like</c><00:10:25.680><c> this</c><00:10:25.829><c> and</c><00:10:26.100><c> hold</c><00:10:26.279><c> up</c><00:10:26.399><c> to</c><00:10:26.519><c> the</c></c>
+
+00:10:26.610 --> 00:10:30.180 align:start position:19%
+mirror<c.colorCCCCCC><00:10:26.760><c> and</c><00:10:26.940><c> see</c><00:10:27.089><c> if</c><00:10:27.180><c> it's</c><00:10:27.329><c> the</c><00:10:27.540><c> right</c><00:10:27.750><c> shade</c></c>
+
+00:10:28.470 --> 00:10:31.410 align:start position:19%
+and<00:10:29.040><c> then</c><00:10:29.160><c> just</c><c.colorE5E5E5><00:10:29.310><c> keep</c><00:10:29.430><c> mixing</c><00:10:29.579><c> till</c><00:10:29.850><c> I</c><00:10:29.910><c> get</c><00:10:30.029><c> the</c></c>
+
+00:10:30.180 --> 00:10:33.930 align:start position:19%
+right<00:10:30.300><c> thing</c><c.colorE5E5E5><00:10:30.540><c> so</c><00:10:30.690><c> I</c></c><c.colorCCCCCC><00:10:30.720><c> definitely</c><00:10:31.110><c> recommend</c></c>
+
+00:10:31.410 --> 00:10:35.670 align:start position:19%
+<c.colorE5E5E5>using<00:10:31.860><c> less</c><00:10:32.339><c> initially</c><00:10:33.149><c> and</c><00:10:33.389><c> then</c><00:10:33.600><c> kind</c></c><c.colorCCCCCC><00:10:33.839><c> of</c></c>
+
+00:10:33.930 --> 00:10:38.399 align:start position:19%
+<c.colorE5E5E5>build<00:10:34.110><c> up</c></c><c.colorCCCCCC><00:10:34.260><c> two</c><00:10:34.440><c> more</c><00:10:34.620><c> products</c><00:10:35.069><c> until</c></c><c.colorE5E5E5><00:10:35.339><c> you</c><00:10:35.459><c> get</c></c>
+
+00:10:35.670 --> 00:10:40.529 align:start position:19%
+the<00:10:35.850><c> right</c><c.colorE5E5E5><00:10:36.120><c> color</c><00:10:36.630><c> for</c></c><c.colorCCCCCC><00:10:36.779><c> you</c><00:10:37.260><c> and</c></c><c.colorE5E5E5><00:10:37.620><c> it's</c><00:10:38.310><c> really</c></c>
+
+00:10:38.399 --> 00:10:43.529 align:start position:19%
+<c.colorCCCCCC>nice</c><c.colorE5E5E5><00:10:38.940><c> I</c><00:10:39.089><c> have</c><00:10:39.240><c> a</c><00:10:39.269><c> neutral</c><00:10:39.690><c> skin</c><00:10:39.839><c> tone</c><00:10:40.199><c> so</c><00:10:40.500><c> I</c></c>
+
+00:10:40.529 --> 00:10:45.600 align:start position:19%
+feel<00:10:40.829><c> like</c><c.colorE5E5E5><00:10:40.860><c> these</c><00:10:41.430><c> keep</c><00:10:41.880><c> my</c><00:10:42.529><c> foundations</c></c>
+
+00:10:43.529 --> 00:10:47.880 align:start position:19%
+neutral<00:10:44.250><c> so</c><00:10:44.550><c> if</c><c.colorE5E5E5><00:10:44.670><c> you</c><00:10:44.760><c> have</c><00:10:44.910><c> a</c><00:10:44.940><c> warm</c><00:10:45.209><c> skin</c><00:10:45.360><c> tone</c></c>
+
+00:10:45.600 --> 00:10:50.880 align:start position:19%
+you<00:10:45.720><c> already</c><00:10:46.019><c> have</c><c.colorCCCCCC><00:10:46.199><c> a</c><00:10:46.350><c> warm</c><00:10:46.709><c> foundation</c></c><c.colorE5E5E5><00:10:47.459><c> these</c></c>
+
+00:10:47.880 --> 00:10:52.260 align:start position:19%
+may<00:10:48.180><c> bring</c><00:10:48.630><c> it</c><00:10:48.810><c> more</c><00:10:49.110><c> neutral</c><00:10:49.589><c> but</c><00:10:50.069><c> I</c><00:10:50.279><c> doubt</c><00:10:50.610><c> it</c>
+
+00:10:50.880 --> 00:10:54.600 align:start position:19%
+<c.colorE5E5E5>honestly<00:10:51.389><c> I</c><00:10:51.420><c> don't</c><00:10:51.600><c> think</c><00:10:51.720><c> it's</c><00:10:51.870><c> really</c><00:10:52.110><c> good</c></c>
+
+00:10:52.260 --> 00:10:55.709 align:start position:19%
+<c.colorE5E5E5>a<00:10:52.290><c> mess</c></c><c.colorCCCCCC><00:10:52.620><c> with</c><00:10:53.010><c> your</c><00:10:53.579><c> warm</c><00:10:53.850><c> foundations</c></c><c.colorE5E5E5><00:10:54.329><c> only</c></c>
+
+00:10:54.600 --> 00:10:58.260 align:start position:19%
+it's<c.colorCCCCCC><00:10:54.750><c> going</c></c><c.colorE5E5E5><00:10:54.870><c> to</c><00:10:54.930><c> mess</c><00:10:55.079><c> too</c><00:10:55.290><c> much</c><00:10:55.319><c> with</c><00:10:55.470><c> your</c></c>
+
+00:10:55.709 --> 00:11:00.449 align:start position:19%
+cool<00:10:55.949><c> foundations</c><c.colorE5E5E5><00:10:56.639><c> it</c><00:10:57.420><c> may</c><00:10:57.930><c> bring</c><00:10:58.110><c> them</c></c>
+
+00:10:58.260 --> 00:11:01.860 align:start position:19%
+slightly<c.colorCCCCCC><00:10:58.500><c> more</c><00:10:58.800><c> neutral</c><00:10:59.220><c> but</c><00:10:59.519><c> man</c><00:11:00.269><c> these</c></c>
+
+00:11:00.449 --> 00:11:03.600 align:start position:19%
+things<00:11:00.480><c> are</c><c.colorCCCCCC><00:11:00.689><c> just</c><00:11:00.870><c> working</c><00:11:01.050><c> up</c><00:11:01.290><c> really</c></c><c.colorE5E5E5><00:11:01.620><c> really</c></c>
+
+00:11:01.860 --> 00:11:04.230 align:start position:19%
+<c.colorCCCCCC>well<00:11:02.130><c> for</c></c><c.colorE5E5E5><00:11:02.160><c> me</c><00:11:02.459><c> and</c></c><c.colorCCCCCC><00:11:02.490><c> I</c><00:11:02.640><c> really</c><00:11:02.970><c> like</c><00:11:03.180><c> them</c><00:11:03.390><c> a</c></c><c.colorE5E5E5><00:11:03.420><c> lot</c></c>
+
+00:11:03.600 --> 00:11:05.730 align:start position:19%
+<c.colorCCCCCC>especially</c>
+
+00:11:04.230 --> 00:11:07.320 align:start position:19%
+this<00:11:04.320><c> time</c><00:11:04.530><c> of</c><00:11:04.680><c> year</c><c.colorCCCCCC><00:11:04.710><c> when</c><00:11:05.010><c> our</c></c><c.colorE5E5E5><00:11:05.040><c> skin</c></c><c.colorCCCCCC><00:11:05.370><c> tone</c></c><c.colorE5E5E5><00:11:05.520><c> may</c></c>
+
+00:11:05.730 --> 00:11:08.730 align:start position:19%
+be<00:11:05.790><c> changing</c><00:11:06.300><c> just</c><c.colorE5E5E5><00:11:06.480><c> a</c><00:11:06.660><c> little</c><00:11:06.870><c> bit</c><00:11:06.990><c> because</c><00:11:07.140><c> of</c></c>
+
+00:11:07.320 --> 00:11:10.770 align:start position:19%
+<c.colorCCCCCC>the</c><c.colorE5E5E5><00:11:07.470><c> Sun</c><00:11:07.770><c> here</c><00:11:08.040><c> in</c><00:11:08.100><c> the</c><00:11:08.220><c> States</c></c>
+
+00:11:08.730 --> 00:11:12.150 align:start position:19%
+now<00:11:09.720><c> looking</c><00:11:10.020><c> at</c><00:11:10.110><c> these</c><00:11:10.230><c> at</c><00:11:10.380><c> number</c><c.colorE5E5E5><00:11:10.590><c> two</c><00:11:10.740><c> I</c></c>
+
+00:11:10.770 --> 00:11:13.440 align:start position:19%
+probably<00:11:11.100><c> should</c><00:11:11.340><c> have</c><00:11:11.370><c> bumped</c><00:11:11.730><c> these</c><00:11:11.850><c> down</c><00:11:12.120><c> a</c>
+
+00:11:12.150 --> 00:11:14.940 align:start position:19%
+<c.colorE5E5E5>little<00:11:12.540><c> bit</c><00:11:12.630><c> because</c><00:11:12.750><c> I</c><00:11:12.900><c> do</c><00:11:12.960><c> have</c><00:11:13.080><c> a</c><00:11:13.200><c> critique</c></c>
+
+00:11:13.440 --> 00:11:16.620 align:start position:19%
+<c.colorCCCCCC>about<00:11:13.770><c> these</c><00:11:13.980><c> but</c><00:11:14.190><c> I</c><00:11:14.220><c> don't</c><00:11:14.520><c> have</c><00:11:14.610><c> a</c><00:11:14.670><c> critique</c></c>
+
+00:11:14.940 --> 00:11:18.900 align:start position:19%
+<c.colorE5E5E5>about<00:11:15.180><c> the</c><00:11:15.300><c> last</c><00:11:15.510><c> two</c><00:11:15.720><c> products</c></c><c.colorCCCCCC><00:11:16.110><c> I</c></c><c.colorE5E5E5><00:11:16.140><c> just</c><00:11:16.410><c> love</c></c>
+
+00:11:16.620 --> 00:11:21.150 align:start position:19%
+them<c.colorCCCCCC><00:11:16.800><c> selves</c><00:11:17.100><c> I</c><00:11:17.220><c> noticed</c></c><c.colorE5E5E5><00:11:17.730><c> ela</c><00:11:17.970><c> magnificent</c></c>
+
+00:11:18.900 --> 00:11:22.860 align:start position:19%
+metals<c.colorE5E5E5><00:11:19.350><c> glitter</c><00:11:19.890><c> and</c><00:11:20.160><c> glow</c><00:11:20.430><c> liquid</c></c>
+
+00:11:21.150 --> 00:11:24.690 align:start position:19%
+<c.colorE5E5E5>eyeshadows<00:11:21.960><c> and</c><00:11:22.200><c> these</c></c><c.colorCCCCCC><00:11:22.260><c> have</c><00:11:22.500><c> been</c><00:11:22.530><c> raved</c></c>
+
+00:11:22.860 --> 00:11:27.510 align:start position:19%
+about<00:11:23.010><c> all</c><00:11:23.310><c> over</c><00:11:23.520><c> YouTube</c><00:11:23.850><c> I</c><00:11:24.000><c> am</c><00:11:24.150><c> wearing</c><00:11:24.480><c> it</c>
+
+00:11:24.690 --> 00:11:29.370 align:start position:19%
+all<00:11:24.900><c> over</c><c.colorE5E5E5><00:11:25.320><c> just</c><00:11:25.860><c> my</c><00:11:26.130><c> lid</c><00:11:26.490><c> today</c><00:11:26.910><c> and</c><00:11:27.210><c> then</c><00:11:27.480><c> I</c></c>
+
+00:11:27.510 --> 00:11:31.800 align:start position:19%
+have<00:11:27.780><c> my</c><c.colorCCCCCC><00:11:27.930><c> number</c></c><c.colorE5E5E5><00:11:28.200><c> one</c><00:11:28.320><c> product</c><00:11:28.770><c> as</c><00:11:28.920><c> the</c><00:11:29.160><c> rest</c></c>
+
+00:11:29.370 --> 00:11:33.450 align:start position:19%
+of<c.colorE5E5E5><00:11:29.610><c> what</c><00:11:29.820><c> I'm</c><00:11:29.940><c> wearing</c></c><c.colorCCCCCC><00:11:30.150><c> these</c><00:11:30.570><c> are</c><00:11:30.900><c> so</c><00:11:31.350><c> good</c></c>
+
+00:11:31.800 --> 00:11:35.100 align:start position:19%
+<c.colorCCCCCC>the<00:11:32.160><c> thing</c><00:11:32.310><c> I'm</c><00:11:32.430><c> most</c></c><c.colorE5E5E5><00:11:32.460><c> impressed</c><00:11:32.820><c> about</c><00:11:33.180><c> these</c></c>
+
+00:11:33.450 --> 00:11:36.930 align:start position:19%
+with<00:11:33.630><c> is</c><00:11:33.780><c> that</c><00:11:33.930><c> I</c><c.colorE5E5E5><00:11:33.960><c> don't</c><00:11:34.260><c> have</c><00:11:34.470><c> any</c><00:11:34.650><c> fallout</c></c>
+
+00:11:35.100 --> 00:11:38.460 align:start position:19%
+which<00:11:35.310><c> surprises</c><00:11:36.060><c> me</c><c.colorE5E5E5><00:11:36.090><c> now</c><00:11:36.540><c> this</c><00:11:36.690><c> is</c><00:11:36.810><c> my</c></c>
+
+00:11:36.930 --> 00:11:40.110 align:start position:19%
+<c.colorCCCCCC>personal</c><c.colorE5E5E5><00:11:37.170><c> eyes</c><00:11:37.470><c> if</c><00:11:37.680><c> you've</c><00:11:37.800><c> had</c><00:11:37.950><c> fallout</c><00:11:38.310><c> I'm</c></c>
+
+00:11:38.460 --> 00:11:41.610 align:start position:19%
+really<00:11:38.730><c> sorry</c><c.colorE5E5E5><00:11:38.910><c> but</c><00:11:39.090><c> I</c></c><c.colorCCCCCC><00:11:39.150><c> have</c><00:11:39.390><c> not</c><00:11:39.570><c> had</c></c><c.colorE5E5E5><00:11:39.900><c> any</c></c>
+
+00:11:40.110 --> 00:11:44.070 align:start position:19%
+fallout<00:11:40.590><c> with</c><00:11:40.770><c> these</c><00:11:40.950><c> I</c><00:11:41.160><c> got</c><00:11:41.310><c> the</c><00:11:41.400><c> shades</c>
+
+00:11:41.610 --> 00:11:45.900 align:start position:19%
+<c.colorE5E5E5>ballet<00:11:42.060><c> baby</c><00:11:42.420><c> and</c><00:11:42.780><c> kitten</c><00:11:43.200><c> karma</c><00:11:43.590><c> and</c><00:11:43.770><c> every</c></c>
+
+00:11:44.070 --> 00:11:47.160 align:start position:19%
+time<00:11:44.220><c> I</c><00:11:44.310><c> wear</c><00:11:44.550><c> these</c><00:11:44.700><c> I</c><c.colorE5E5E5><00:11:44.760><c> get</c><00:11:45.120><c> compliments</c></c><c.colorCCCCCC><00:11:45.390><c> I</c></c>
+
+00:11:45.900 --> 00:11:48.690 align:start position:19%
+brought<00:11:46.140><c> both</c><00:11:46.290><c> of</c><c.colorCCCCCC><00:11:46.350><c> them</c><00:11:46.590><c> to</c><00:11:46.680><c> generation</c></c>
+
+00:11:47.160 --> 00:11:50.700 align:start position:19%
+<c.colorCCCCCC>beauty<00:11:47.430><c> and</c><00:11:47.610><c> when</c><00:11:47.700><c> I</c><00:11:47.730><c> had</c><00:11:47.940><c> in</c><00:11:48.060><c> my</c><00:11:48.180><c> eyes</c><00:11:48.390><c> I</c><00:11:48.570><c> got</c></c>
+
+00:11:48.690 --> 00:11:53.100 align:start position:19%
+lots<00:11:48.930><c> of</c><c.colorCCCCCC><00:11:49.110><c> compliments</c><00:11:49.710><c> and</c><00:11:49.800><c> they're</c></c><c.colorE5E5E5><00:11:50.520><c> just</c></c>
+
+00:11:50.700 --> 00:11:54.990 align:start position:19%
+really<c.colorE5E5E5><00:11:51.060><c> really</c><00:11:51.780><c> good</c><00:11:52.020><c> glitters</c><00:11:52.560><c> in</c><00:11:52.830><c> that</c><00:11:52.980><c> they</c></c>
+
+00:11:53.100 --> 00:11:57.090 align:start position:19%
+<c.colorE5E5E5>don't<00:11:53.370><c> fall</c><00:11:53.580><c> over</c><00:11:53.760><c> your</c><00:11:54.030><c> face</c><00:11:54.240><c> my</c><00:11:54.780><c> critique</c></c>
+
+00:11:54.990 --> 00:11:59.940 align:start position:19%
+however<00:11:55.560><c> is</c><c.colorCCCCCC><00:11:55.830><c> that</c><00:11:56.070><c> if</c><00:11:56.190><c> you</c><00:11:56.310><c> have</c><00:11:56.490><c> hooded</c></c><c.colorE5E5E5><00:11:56.760><c> eyes</c></c>
+
+00:11:57.090 --> 00:12:02.550 align:start position:19%
+or<00:11:57.540><c> if</c><00:11:57.750><c> your</c><00:11:57.930><c> eyes</c><c.colorE5E5E5><00:11:58.140><c> touch</c><00:11:59.010><c> like</c><00:11:59.610><c> if</c><00:11:59.820><c> your</c></c>
+
+00:11:59.940 --> 00:12:05.820 align:start position:19%
+eyelid<00:12:00.390><c> touches</c><00:12:00.960><c> like</c><00:12:01.410><c> the</c><00:12:01.560><c> upper</c><00:12:01.980><c> part</c><00:12:02.370><c> of</c>
+
+00:12:02.550 --> 00:12:08.310 align:start position:19%
+the<00:12:02.910><c> inside</c><c.colorCCCCCC><00:12:03.480><c> of</c></c><c.colorE5E5E5><00:12:03.780><c> your</c><00:12:03.990><c> eye</c><00:12:04.610><c> subscribe</c><00:12:05.610><c> it</c></c>
+
+00:12:05.820 --> 00:12:11.160 align:start position:19%
+<c.colorE5E5E5>these<00:12:06.240><c> can</c><00:12:06.630><c> transfer</c><00:12:07.170><c> so</c><00:12:07.380><c> I</c><00:12:07.410><c> have</c><00:12:07.740><c> to</c><00:12:07.890><c> spend</c><00:12:08.220><c> a</c></c>
+
+00:12:08.310 --> 00:12:12.780 align:start position:19%
+good<00:12:08.550><c> two</c><00:12:08.850><c> minutes</c><c.colorCCCCCC><00:12:08.880><c> like</c><00:12:09.360><c> this</c></c><c.colorE5E5E5><00:12:09.860><c> after</c><00:12:10.860><c> I</c><00:12:10.920><c> put</c></c>
+
+00:12:11.160 --> 00:12:14.460 align:start position:19%
+them<00:12:11.310><c> on</c><00:12:11.430><c> to</c><00:12:11.880><c> make</c><c.colorE5E5E5><00:12:12.060><c> sure</c><00:12:12.270><c> that</c><00:12:12.450><c> it</c><00:12:12.600><c> doesn't</c></c>
+
+00:12:12.780 --> 00:12:16.380 align:start position:19%
+<c.colorCCCCCC>transfer<00:12:13.320><c> and</c><00:12:13.500><c> even</c><00:12:13.710><c> and</c><00:12:13.860><c> then</c><00:12:13.950><c> it</c><00:12:14.160><c> still</c></c>
+
+00:12:14.460 --> 00:12:17.880 align:start position:19%
+transfers<00:12:15.030><c> just</c><00:12:15.240><c> a</c><00:12:15.330><c> tiny</c><00:12:15.540><c> bit</c><00:12:15.810><c> through</c><00:12:16.230><c> the</c>
+
+00:12:16.380 --> 00:12:19.350 align:start position:19%
+day<00:12:16.620><c> so</c><c.colorE5E5E5><00:12:16.680><c> that's</c><00:12:17.040><c> a</c><00:12:17.160><c> critique</c><00:12:17.460><c> I</c><00:12:17.580><c> have</c><00:12:17.730><c> about</c></c>
+
+00:12:17.880 --> 00:12:22.050 align:start position:19%
+them<c.colorE5E5E5><00:12:18.060><c> but</c><00:12:18.180><c> they're</c><00:12:18.300><c> so</c><00:12:18.570><c> sickeningly</c></c>
+
+00:12:19.350 --> 00:12:23.460 align:start position:19%
+beautiful<00:12:20.010><c> that's</c><00:12:20.640><c> why</c><00:12:20.940><c> they're</c><00:12:21.150><c> so</c><00:12:21.450><c> high</c><00:12:21.660><c> I</c>
+
+00:12:22.050 --> 00:12:25.440 align:start position:19%
+really<00:12:22.350><c> think</c><00:12:22.560><c> maybe</c><c.colorE5E5E5><00:12:22.740><c> I</c><00:12:22.920><c> should</c><00:12:23.130><c> have</c><00:12:23.220><c> bumped</c></c>
+
+00:12:23.460 --> 00:12:26.700 align:start position:19%
+him<00:12:23.550><c> down</c><00:12:23.700><c> a</c><c.colorE5E5E5><00:12:23.730><c> little</c><00:12:23.970><c> bit</c><00:12:24.180><c> but</c><00:12:24.510><c> I</c><00:12:24.810><c> don't</c><00:12:25.230><c> know</c></c>
+
+00:12:25.440 --> 00:12:29.100 align:start position:19%
+they're<00:12:25.590><c> so</c><00:12:25.830><c> good</c><00:12:26.010><c> they</c><00:12:26.220><c> could</c><c.colorE5E5E5><00:12:26.280><c> stay</c><00:12:26.580><c> at</c></c>
+
+00:12:26.700 --> 00:12:30.870 align:start position:19%
+<c.colorCCCCCC>number<00:12:26.940><c> two</c></c><c.colorE5E5E5><00:12:27.150><c> and</c></c><c.colorCCCCCC><00:12:28.050><c> number</c><00:12:28.230><c> one</c><00:12:28.530><c> is</c><00:12:28.680><c> one</c><00:12:28.860><c> that</c><00:12:29.040><c> I</c></c>
+
+00:12:29.100 --> 00:12:33.210 align:start position:19%
+am<00:12:29.220><c> very</c><00:12:29.460><c> surprised</c><00:12:29.910><c> if</c><00:12:30.120><c> you</c><00:12:30.240><c> had</c><00:12:30.390><c> told</c><c.colorE5E5E5><00:12:30.600><c> me</c></c>
+
+00:12:30.870 --> 00:12:35.190 align:start position:19%
+<c.colorE5E5E5>that<00:12:31.080><c> a</c><00:12:31.410><c> Tarte</c><00:12:32.010><c> eyeshadow</c><00:12:32.550><c> palette</c><00:12:32.940><c> was</c><00:12:33.060><c> going</c></c>
+
+00:12:33.210 --> 00:12:37.020 align:start position:19%
+to<00:12:33.270><c> be</c><00:12:33.390><c> at</c><00:12:33.510><c> my</c><00:12:33.630><c> number</c><00:12:33.930><c> one</c><00:12:34.080><c> spot</c><00:12:34.410><c> ever</c><c.colorE5E5E5><00:12:34.740><c> I</c></c>
+
+00:12:35.190 --> 00:12:39.930 align:start position:19%
+probably<00:12:35.910><c> would</c><c.colorCCCCCC><00:12:36.210><c> have</c><00:12:36.300><c> laughed</c><00:12:36.510><c> and</c><00:12:36.810><c> said</c></c>
+
+00:12:37.020 --> 00:12:41.880 align:start position:19%
+<c.colorCCCCCC>there's</c><c.colorE5E5E5><00:12:37.230><c> no</c><00:12:37.530><c> way</c><00:12:37.710><c> but</c><00:12:38.220><c> and</c></c><c.colorCCCCCC><00:12:39.180><c> also</c><00:12:39.540><c> a</c><00:12:39.570><c> palette</c></c>
+
+00:12:39.930 --> 00:12:44.220 align:start position:19%
+it's<00:12:40.080><c> so</c><00:12:40.290><c> boring</c><00:12:40.680><c> looking</c><00:12:41.250><c> is</c><c.colorCCCCCC><00:12:41.460><c> it</c><00:12:41.700><c> my</c><00:12:41.820><c> number</c></c>
+
+00:12:41.880 --> 00:12:46.500 align:start position:19%
+<c.colorCCCCCC>one<00:12:42.330><c> this</c><00:12:42.510><c> is</c><00:12:42.570><c> a</c></c><c.colorE5E5E5><00:12:42.690><c> Tarte</c><00:12:43.050><c> clay</c><00:12:43.350><c> play</c><00:12:43.710><c> palette</c></c>
+
+00:12:44.220 --> 00:12:49.860 align:start position:19%
+I'm<c.colorE5E5E5><00:12:44.640><c> obsessed</c><00:12:45.300><c> with</c><00:12:45.390><c> this</c><00:12:45.630><c> palette</c></c><c.colorCCCCCC><00:12:45.960><c> and</c><00:12:46.290><c> I</c></c>
+
+00:12:46.500 --> 00:12:52.140 align:start position:19%
+don't<00:12:46.560><c> I</c><00:12:46.980><c> don't</c><00:12:47.280><c> know</c><00:12:48.000><c> how</c><00:12:48.840><c> that</c><c.colorE5E5E5><00:12:48.900><c> happened</c></c><c.colorCCCCCC><00:12:49.500><c> I'm</c></c>
+
+00:12:49.860 --> 00:12:55.160 align:start position:19%
+<c.colorE5E5E5>obsessed<00:12:50.430><c> with</c><00:12:50.490><c> this</c><00:12:50.760><c> I</c><00:12:51.000><c> think</c></c><c.colorCCCCCC><00:12:51.390><c> it's</c><00:12:51.750><c> because</c></c>
+
+00:12:52.140 --> 00:12:57.690 align:start position:19%
+it's<00:12:52.320><c> so</c><00:12:52.650><c> consistently</c><00:12:53.610><c> easy</c><00:12:53.970><c> to</c><00:12:54.270><c> use</c><00:12:54.450><c> and</c><00:12:54.750><c> so</c>
+
+00:12:55.160 --> 00:13:00.210 align:start position:19%
+<c.colorE5E5E5>consistently<00:12:56.160><c> good</c><00:12:56.520><c> so</c><00:12:57.120><c> what</c><00:12:57.270><c> I</c></c><c.colorCCCCCC><00:12:57.300><c> did</c><00:12:57.510><c> when</c></c><c.colorE5E5E5><00:12:57.630><c> I</c></c>
+
+00:12:57.690 --> 00:13:01.980 align:start position:19%
+was<00:12:57.900><c> away</c><00:12:58.170><c> in</c><c.colorCCCCCC><00:12:58.200><c> New</c><00:12:58.620><c> York</c><00:12:58.800><c> and</c><00:12:59.040><c> Canada</c></c><c.colorE5E5E5><00:12:59.310><c> was</c><00:12:59.910><c> that</c></c>
+
+00:13:00.210 --> 00:13:03.120 align:start position:19%
+<c.colorE5E5E5>I<00:13:00.420><c> took</c><00:13:00.480><c> this</c><00:13:00.960><c> palette</c><00:13:01.290><c> with</c><00:13:01.440><c> me</c><00:13:01.590><c> and</c><00:13:01.800><c> then</c><00:13:01.950><c> I</c></c>
+
+00:13:01.980 --> 00:13:04.890 align:start position:19%
+took<c.colorE5E5E5><00:13:02.070><c> the</c><00:13:02.520><c> chart</c></c>
+
+00:13:03.120 --> 00:13:07.290 align:start position:19%
+believe<00:13:03.630><c> in</c><00:13:03.780><c> yourself</c><00:13:04.200><c> to</c><00:13:04.440><c> make</c><c.colorE5E5E5><00:13:04.590><c> believe</c><00:13:04.800><c> in</c></c>
+
+00:13:04.890 --> 00:13:09.540 align:start position:19%
+yourself<00:13:05.190><c> talent</c><00:13:05.550><c> and</c><00:13:05.670><c> the</c><00:13:05.790><c> to</c><00:13:06.030><c> steal</c><c.colorE5E5E5><00:13:06.480><c> is</c><00:13:06.720><c> with</c></c>
+
+00:13:07.290 --> 00:13:11.700 align:start position:19%
+me<c.colorE5E5E5><00:13:07.470><c> I</c><00:13:07.620><c> set</c><00:13:07.920><c> out</c><00:13:08.100><c> down</c><00:13:08.310><c> my</c><00:13:08.520><c> base</c><00:13:08.700><c> with</c><00:13:09.000><c> this</c><00:13:09.210><c> and</c></c>
+
+00:13:09.540 --> 00:13:13.350 align:start position:19%
+then<00:13:09.960><c> I</c><00:13:09.990><c> just</c><00:13:10.260><c> popped</c><00:13:10.560><c> either</c><00:13:10.890><c> a</c><00:13:11.010><c> color</c><00:13:11.400><c> from</c>
+
+00:13:11.700 --> 00:13:15.480 align:start position:19%
+me<00:13:12.000><c> make</c><00:13:12.210><c> believe</c><00:13:12.420><c> in</c><00:13:12.540><c> yourself</c><00:13:12.840><c> palette</c><00:13:13.200><c> or</c>
+
+00:13:13.350 --> 00:13:16.390 align:start position:19%
+one<00:13:13.830><c> of</c><00:13:13.920><c> the</c><c.colorCCCCCC><00:13:14.010><c> steal</c><00:13:14.190><c> is</c><00:13:14.370><c> down</c><00:13:14.550><c> and</c><00:13:14.820><c> I</c><00:13:15.120><c> was</c><00:13:15.300><c> done</c></c>
+
+00:13:15.480 --> 00:13:19.420 align:start position:19%
+all<00:13:15.690><c> I</c><00:13:15.780><c> have</c><00:13:15.900><c> on</c><00:13:16.050><c> my</c>
+
+00:13:16.390 --> 00:13:21.850 align:start position:19%
+today<00:13:16.660><c> is</c><c.colorCCCCCC><00:13:16.960><c> the</c><00:13:17.440><c> shade</c><00:13:17.710><c> up</c><00:13:17.950><c> in</c><00:13:18.280><c> my</c><00:13:18.670><c> crease</c><00:13:18.940><c> this</c></c>
+
+00:13:19.420 --> 00:13:23.770 align:start position:19%
+shade<00:13:19.660><c> over</c><c.colorE5E5E5><00:13:19.870><c> here</c><00:13:20.410><c> out</c><00:13:20.740><c> in</c><00:13:21.040><c> the</c><00:13:21.130><c> outer</c><00:13:21.340><c> corner</c></c>
+
+00:13:21.850 --> 00:13:26.020 align:start position:19%
+<c.colorE5E5E5>I</c><c.colorCCCCCC><00:13:21.970><c> pop</c></c><c.colorE5E5E5><00:13:22.240><c> this</c><00:13:22.480><c> shade</c><00:13:22.750><c> all</c><00:13:22.990><c> over</c></c><c.colorCCCCCC><00:13:23.020><c> my</c><00:13:23.350><c> lid</c><00:13:23.560><c> and</c></c>
+
+00:13:23.770 --> 00:13:28.600 align:start position:19%
+<c.colorE5E5E5>then<00:13:23.920><c> the</c><00:13:24.040><c> kitten</c><00:13:24.310><c> karma</c><00:13:24.640><c> and</c><00:13:24.820><c> that's</c><00:13:25.210><c> it</c><00:13:25.450><c> from</c></c>
+
+00:13:26.020 --> 00:13:31.420 align:start position:19%
+the<00:13:26.290><c> steel</c><00:13:26.530><c> of</c><c.colorE5E5E5><00:13:26.560><c> the</c><00:13:26.950><c> glittery</c><00:13:27.520><c> guy</c><00:13:27.730><c> that's</c><00:13:28.390><c> all</c></c>
+
+00:13:28.600 --> 00:13:35.560 align:start position:19%
+I<00:13:28.630><c> have</c><00:13:29.020><c> on</c><00:13:29.320><c> my</c><00:13:29.560><c> eyes</c><c.colorE5E5E5><00:13:29.710><c> and</c><00:13:30.100><c> it's</c><00:13:30.420><c> consistently</c></c>
+
+00:13:31.420 --> 00:13:37.960 align:start position:19%
+<c.colorE5E5E5>easy<00:13:32.100><c> no</c><00:13:33.100><c> thought</c><00:13:33.930><c> wonderful</c><00:13:34.930><c> to</c><00:13:35.080><c> use</c><00:13:35.320><c> I</c></c>
+
+00:13:35.560 --> 00:13:39.430 align:start position:19%
+really<00:13:35.950><c> like</c><00:13:36.190><c> the</c><00:13:36.520><c> contour</c><00:13:37.150><c> shades</c><00:13:37.480><c> as</c><c.colorCCCCCC><00:13:37.720><c> well</c></c>
+
+00:13:37.960 --> 00:13:41.560 align:start position:19%
+it's<00:13:38.290><c> just</c><00:13:38.380><c> just</c><00:13:38.830><c> been</c><00:13:38.980><c> treating</c><00:13:39.340><c> me</c><00:13:39.400><c> very</c>
+
+00:13:39.430 --> 00:13:43.600 align:start position:19%
+<c.colorE5E5E5>well<00:13:39.790><c> lasting</c></c><c.colorCCCCCC><00:13:40.300><c> powers</c><00:13:40.570><c> been</c><00:13:40.750><c> fantastic</c></c><c.colorE5E5E5><00:13:41.440><c> and</c></c>
+
+00:13:41.560 --> 00:13:45.310 align:start position:19%
+this<c.colorE5E5E5><00:13:42.550><c> has</c></c><c.colorCCCCCC><00:13:42.730><c> become</c><00:13:43.000><c> one</c><00:13:43.180><c> of</c><00:13:43.210><c> my</c></c><c.colorE5E5E5><00:13:43.270><c> favorite</c></c>
+
+00:13:43.600 --> 00:13:46.840 align:start position:19%
+eyeshadow<00:13:43.780><c> palettes</c><c.colorCCCCCC><00:13:44.350><c> to</c><00:13:44.500><c> work</c><00:13:44.650><c> with</c><00:13:44.830><c> I</c><00:13:45.070><c> like</c></c>
+
+00:13:45.310 --> 00:13:48.460 align:start position:19%
+it<00:13:45.460><c> better</c><00:13:45.580><c> than</c><c.colorCCCCCC><00:13:45.820><c> my</c><00:13:46.030><c> Urban</c><00:13:46.600><c> Decay</c><00:13:46.810><c> Naked</c></c>
+
+00:13:46.840 --> 00:13:50.140 align:start position:19%
+basics<c.colorE5E5E5><00:13:47.200><c> palette</c></c><c.colorCCCCCC><00:13:47.560><c> I</c><00:13:47.920><c> feel</c><00:13:48.190><c> like</c><00:13:48.310><c> they're</c></c>
+
+00:13:48.460 --> 00:13:52.960 align:start position:19%
+easier<00:13:48.790><c> to</c><c.colorCCCCCC><00:13:48.880><c> work</c><00:13:49.030><c> with</c><00:13:49.180><c> I</c><00:13:49.480><c> feel</c></c><c.colorE5E5E5><00:13:49.690><c> like</c><00:13:49.960><c> they're</c></c>
+
+00:13:50.140 --> 00:13:54.820 align:start position:19%
+<c.colorCCCCCC>laughing</c><c.colorE5E5E5><00:13:50.380><c> power</c><00:13:50.770><c> is</c><00:13:51.070><c> better</c><00:13:51.340><c> and</c><00:13:51.700><c> I</c><00:13:52.510><c> can't</c></c>
+
+00:13:52.960 --> 00:13:56.590 align:start position:19%
+<c.colorE5E5E5>believe<00:13:53.200><c> I'm</c><00:13:53.350><c> saying</c><00:13:53.560><c> this</c><00:13:53.710><c> but</c><00:13:54.310><c> I</c><00:13:54.370><c> love</c><00:13:54.610><c> this</c></c>
+
+00:13:54.820 --> 00:13:58.690 align:start position:19%
+Tarte<00:13:55.030><c> eyeshadow</c><00:13:55.390><c> palette</c><c.colorE5E5E5><00:13:55.720><c> I</c><00:13:55.840><c> love</c><00:13:56.080><c> it</c><00:13:56.260><c> so</c><00:13:56.500><c> if</c></c>
+
+00:13:56.590 --> 00:14:01.480 align:start position:19%
+you're<00:13:56.680><c> looking</c><c.colorCCCCCC><00:13:56.830><c> for</c><00:13:57.310><c> a</c><00:13:57.340><c> good</c><00:13:57.790><c> base</c><00:13:58.330><c> eyeshadow</c></c>
+
+00:13:58.690 --> 00:14:05.020 align:start position:19%
+<c.colorE5E5E5>palette<00:13:59.620><c> that</c></c><c.colorCCCCCC><00:13:59.950><c> is</c></c><c.colorE5E5E5><00:14:00.010><c> no</c><00:14:00.280><c> thought</c><00:14:00.580><c> I</c><00:14:00.820><c> highly</c></c>
+
+00:14:01.480 --> 00:14:07.570 align:start position:19%
+recommend<00:14:01.990><c> this</c><c.colorE5E5E5><00:14:02.110><c> so</c><00:14:02.680><c> that</c><00:14:02.950><c> is</c><00:14:03.190><c> it</c><00:14:03.550><c> for</c><00:14:03.790><c> my</c><00:14:04.450><c> top</c></c>
+
+00:14:05.020 --> 00:14:08.980 align:start position:19%
+10<c.colorCCCCCC><00:14:05.160><c> favorites</c><00:14:06.160><c> countdown</c></c><c.colorE5E5E5><00:14:06.610><c> for</c><00:14:06.820><c> June</c><00:14:07.060><c> I</c><00:14:07.330><c> hope</c></c>
+
+00:14:07.570 --> 00:14:10.240 align:start position:19%
+you<00:14:07.690><c> enjoyed</c><c.colorCCCCCC><00:14:08.020><c> it</c><00:14:08.170><c> if</c><00:14:08.320><c> you</c><00:14:08.350><c> did</c><00:14:08.740><c> definitely</c></c>
+
+00:14:08.980 --> 00:14:13.750 align:start position:19%
+<c.colorE5E5E5>make</c><c.colorCCCCCC><00:14:09.310><c> sure</c><00:14:09.400><c> you</c><00:14:09.490><c> subscribe</c><00:14:09.700><c> so</c><00:14:10.090><c> you</c><00:14:10.210><c> don't</c></c>
+
+00:14:10.240 --> 00:14:15.640 align:start position:19%
+miss<c.colorE5E5E5><00:14:10.540><c> my</c><00:14:11.140><c> favorites</c><00:14:11.680><c> next</c><00:14:12.310><c> month</c><00:14:12.880><c> and</c><00:14:13.240><c> mad</c></c>
+
+00:14:13.750 --> 00:14:18.130 align:start position:19%
+love<00:14:14.050><c> to</c><00:14:14.230><c> you</c><00:14:14.410><c> hope</c><00:14:14.890><c> you</c><00:14:15.040><c> had</c><00:14:15.190><c> a</c><00:14:15.220><c> great</c><c.colorE5E5E5><00:14:15.370><c> month</c></c>
+
+00:14:15.640 --> 00:14:21.630 align:start position:19%
+<c.colorE5E5E5>hope<00:14:16.060><c> next</c><00:14:16.480><c> month</c><00:14:16.690><c> is</c><00:14:16.870><c> even</c><00:14:17.140><c> better</c><00:14:17.320><c> and</c><00:14:17.620><c> I</c></c>
+
+00:14:18.130 --> 00:14:21.630 align:start position:19%
+love<00:14:18.460><c> and</c><00:14:18.700><c> I'll</c><00:14:18.850><c> see</c><00:14:19.000><c> you</c><00:14:19.090><c> in</c><00:14:19.150><c> the</c><00:14:19.210><c> next</c><00:14:19.420><c> video</c>
+
+00:14:22.920 --> 00:14:26.040 align:start position:19%
+[Music]
+

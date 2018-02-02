@@ -1,0 +1,37 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:00.030 --> 00:00:08.299 align:start position:19%
+guys<00:00:00.740><c> if</c><c.colorE5E5E5><00:00:01.740><c> you</c><00:00:02.159><c> are</c><00:00:02.340><c> today</c></c><c.colorCCCCCC><00:00:02.520><c> we</c></c><c.colorE5E5E5><00:00:03.500><c> are</c><00:00:04.500><c> will</c></c><c.colorCCCCCC><00:00:05.250><c> not</c></c>
+
+00:00:05.490 --> 00:00:08.299 align:start position:19%
+<c.colorE5E5E5>today</c><c.colorCCCCCC><00:00:05.819><c> tonight</c></c>
+
+00:00:15.269 --> 00:00:25.980 align:start position:19%
+subscribe<c.colorE5E5E5><00:00:15.929><c> now</c><00:00:19.430><c> if</c><00:00:20.430><c> you</c><00:00:20.609><c> subscribe</c><00:00:21.090><c> there's</c><00:00:21.390><c> a</c></c>
+
+00:00:21.449 --> 00:00:30.830 align:start position:19%
+little<00:00:21.689><c> bell</c><00:00:22.260><c> it</c><00:00:22.590><c> says</c><00:00:23.250><c> so</c><c.colorE5E5E5><00:00:23.699><c> and</c></c><c.colorCCCCCC><00:00:24.590><c> if</c><00:00:25.590><c> you</c><00:00:25.710><c> see</c></c>
+
+00:00:25.980 --> 00:00:30.830 align:start position:19%
+something<c.colorCCCCCC><00:00:26.789><c> like</c></c><c.colorE5E5E5><00:00:26.910><c> this</c><00:00:27.180><c> as</c><00:00:27.599><c> pink</c><00:00:28.109><c> bathroom</c></c>
+
+00:00:33.140 --> 00:01:08.670 align:start position:19%
+that<c.colorE5E5E5><00:00:34.140><c> but</c><00:00:34.559><c> pink</c><00:00:35.070><c> bathroom</c><00:00:35.809><c> that's</c><00:00:36.809><c> not</c><00:01:01.460><c> this</c></c>
+
+00:01:02.460 --> 00:01:12.659 align:start position:19%
+videos<00:01:02.910><c> all</c><00:01:03.300><c> about</c><00:01:04.700><c> yeah</c><c.colorCCCCCC><00:01:05.700><c> it's</c><00:01:05.820><c> a</c><00:01:05.909><c> bug</c></c><c.colorE5E5E5><00:01:07.670><c> okay</c></c>
+
+00:01:08.670 --> 00:01:14.990 align:start position:19%
+<c.colorE5E5E5>I'm<00:01:09.090><c> back</c><00:01:09.439><c> so</c><00:01:10.439><c> I</c><00:01:11.000><c> just</c><00:01:12.000><c> had</c></c><c.colorCCCCCC><00:01:12.150><c> thought</c><00:01:12.390><c> for</c><00:01:12.630><c> a</c></c>
+
+00:01:12.659 --> 00:01:14.990 align:start position:19%
+second
+

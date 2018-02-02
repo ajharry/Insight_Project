@@ -1,0 +1,28 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:26.750 --> 00:00:33.239 align:start position:19%
+when<00:00:27.750><c> I</c><00:00:27.779><c> change</c><c.colorCCCCCC><00:00:28.080><c> the</c><00:00:28.170><c> variable</c><00:00:28.650><c> I</c><00:00:28.830><c> didn't</c><00:00:29.130><c> do</c></c>
+
+00:00:29.220 --> 00:00:35.840 align:start position:19%
+<c.colorE5E5E5>the</c><c.colorCCCCCC><00:00:29.340><c> helpers</c><00:00:31.250><c> you're</c><00:00:32.250><c> using</c><00:00:32.460><c> my</c><00:00:32.759><c> terminology</c></c>
+
+00:00:33.239 --> 00:00:35.840 align:start position:19%
+<c.colorCCCCCC>map</c>
+
+00:00:42.320 --> 00:00:49.510 align:start position:19%
+left<00:00:42.980><c> left</c><c.colorCCCCCC><00:00:43.730><c> other</c><00:00:44.660><c> left</c></c>
+
+00:00:46.880 --> 00:00:49.510 align:start position:19%
+<c.colorE5E5E5>that</c>
+
+00:01:02.899 --> 00:01:06.280 align:start position:19%
+like<00:01:03.440><c> closer</c><00:01:03.829><c> to</c><c.colorE5E5E5><00:01:03.980><c> his</c><00:01:04.159><c> eyes</c></c>
+

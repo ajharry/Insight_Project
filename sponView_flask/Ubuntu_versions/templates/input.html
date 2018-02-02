@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -10,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Starter Template for Bootstrap</title>
+    <title>Welcome to sponView!</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../static/css/bootstrap.min.css" rel="stylesheet">
@@ -19,8 +18,9 @@
     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="starter-template.css" rel="stylesheet">
-
+    <link href="../static/starter-template.css" rel="stylesheet">
+     <link href="../static/custom-navbar.css" rel="stylesheet">
+     
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
@@ -34,22 +34,23 @@
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
+    <nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
+                <a class="navbar-brand" href="http://www.sponview.site">
+        <img alt="sponView" src="../static/logo_white.png" height = 30px>
+      </a>
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
             <span class="sr-only">Toggle navigation</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Project name</a>
         </div>
         <div id="navbar" class="collapse navbar-collapse">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li class="active"><a href="http://www.sponview.site">Home</a></li>
+            <li><a href="http://www.apriljharry.com">About Me</a></li>
           </ul>
         </div><!--/.nav-collapse -->
       </div>
@@ -58,25 +59,31 @@
   <div class="container">
 
     <div class="starter-template">
-        <h2>Input Page</h2>
-        <p>Enter some user input</p>
+        <img src="../static/logo_black_yt.png" width = 500px onerror = "sponView"><br/><br/>
+        <h2>Identifying sponsored content in YouTube videos</h2>
     </div>
 
     <div class = "container">
 
       <form  action="/output" method="GET">
-        <div class="form-group">
-          <label for="video_id">Video ID:</label>
-          <input type="text" id="video_id" name='video_id' placeholder="e.g. ">
-        </div>
-
-        <div>
-          <button type="submit" class="btn btn-default btn-lg">Find sponsored content!</button>
+        <div class="col-md-6 col-md-offset-3">
+          <label for="video_id">Please enter the YouTube video ID:</label>
+          <input class = "form-control" type="text" id="video_id" name='video_id' placeholder="e.g. FlsCjmMhFmw">
+          <button type="submit" class="btn btn-danger btn-block btn-lg">Find sponsored content!</button>
         </div>
 
       </form>
     </div>
 
+    <div class="col-md-6 col-md-offset-3">
+      <br/><br/><br/>
+    <center>Can't find the video id? Download the sponView Chrome extension!
+    <a href="https://chrome.google.com/webstore/detail/sponview/iehfbpebnjgodjohmkdhidbohfhkcnmh"><img src='../static/webstore.png' width = 250px></a>
+    </center>
+    </div>
+    
+    
+    
     <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
     <script src="../static/js/bootstrap.min.js"></script>
 

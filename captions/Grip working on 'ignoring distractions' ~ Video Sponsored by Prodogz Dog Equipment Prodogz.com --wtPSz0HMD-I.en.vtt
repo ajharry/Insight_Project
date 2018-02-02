@@ -1,0 +1,37 @@
+WEBVTT
+Kind: captions
+Language: en
+Style:
+::cue(c.colorCCCCCC) { color: rgb(204,204,204);
+ }
+::cue(c.colorE5E5E5) { color: rgb(229,229,229);
+ }
+##
+
+00:00:08.929 --> 00:00:14.040 align:start position:19%
+good
+
+00:00:11.030 --> 00:00:16.980 align:start position:19%
+look<00:00:12.030><c> closer</c><00:00:12.240><c> this</c><00:00:12.420><c> time</c><00:00:12.480><c> Bob</c><c.colorE5E5E5><00:00:12.980><c> find</c><00:00:13.980><c> that</c></c>
+
+00:00:14.040 --> 00:00:20.010 align:start position:19%
+point<c.colorE5E5E5><00:00:14.280><c> where</c></c><c.colorCCCCCC><00:00:14.490><c> he</c><00:00:15.470><c> that's</c><00:00:16.470><c> point</c></c>
+
+00:00:16.980 --> 00:00:28.050 align:start position:19%
+<c.colorCCCCCC>okay<00:00:17.310><c> walk</c><00:00:17.520><c> back</c><00:00:17.900><c> so</c><00:00:18.900><c> walk</c><00:00:19.109><c> to</c><00:00:19.650><c> that</c></c><c.colorE5E5E5><00:00:19.680><c> point</c></c>
+
+00:00:20.010 --> 00:00:29.400 align:start position:19%
+again<c.colorE5E5E5><00:00:20.100><c> Bob</c><00:00:22.760><c> good</c><00:00:23.760><c> Linda</c><00:00:26.269><c> so</c><00:00:27.269><c> Bob</c><00:00:27.570><c> is</c></c><c.colorCCCCCC><00:00:27.599><c> able</c><00:00:27.990><c> to</c></c>
+
+00:00:28.050 --> 00:00:30.720 align:start position:19%
+make<00:00:28.199><c> it</c><00:00:28.320><c> further</c><00:00:28.529><c> past</c><00:00:28.830><c> that</c><c.colorE5E5E5><00:00:29.010><c> point</c><00:00:29.279><c> you</c></c>
+
+00:00:29.400 --> 00:00:42.450 align:start position:19%
+<c.colorE5E5E5>really<00:00:29.670><c> need</c><00:00:29.820><c> to</c><00:00:29.910><c> throw</c><00:00:30.060><c> a</c><00:00:30.119><c> party</c><00:00:30.330><c> if</c><00:00:30.510><c> he</c><00:00:30.539><c> does</c></c>
+
+00:00:30.720 --> 00:00:46.430 align:start position:19%
+<c.colorE5E5E5>good<00:00:39.559><c> yes</c><00:00:40.760><c> yes</c></c>
+
+00:00:42.450 --> 00:00:46.430 align:start position:19%
+nice<00:00:43.160><c> good</c><c.colorCCCCCC><00:00:44.160><c> job</c></c>
+
