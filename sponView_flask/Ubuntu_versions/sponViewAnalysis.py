@@ -100,7 +100,7 @@ def run_classifier(video_id):
 
       cap_feature = feature_extraction.transform([stemmed_captions])
       result = clf.predict(cap_feature)[0]
-      prob = clf.predict_proba(cap_feature).ravel()[1]
+      prob = (clf.predict_proba(cap_feature).ravel()[1])
       return captions, result, prob
       
       # #### Naive Bayes ####

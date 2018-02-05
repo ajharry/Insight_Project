@@ -25,9 +25,9 @@ def data_output():
   else:
     prob = prob * 100
     if result == 'no':
-      result_sentence = '<font color=\"red\", size = 10>Not sponsored.</font><br/><font size = 6>There is a %.2f%% chance that this video DOES NOT contain sponsored content.</font>' % (100-prob)
+      result_sentence = '<font color=\"red\", size = 10>Not sponsored.</font><br/><font size = 6>There is a %.0f%% chance that this video DOES NOT contain sponsored content.</font>' % (100-prob)
     else:
-      result_sentence = '<font color=\"red\", size = 10>Sponsored.</font><br/><font size = 6>There is a %.2f%% chance that this video DOES contain sponsored content.</font>' % prob
+      result_sentence = '<font color=\"red\", size = 10>Sponsored.</font><br/><font size = 6>There is a %.0f%% chance that this video DOES contain sponsored content.</font>' % prob
   return render_template("output.html", result = result_sentence, video_id = video_id)
   
   

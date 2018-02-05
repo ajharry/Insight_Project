@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
 
-  "name": "sponView",
+  "name": "sponView Video ID grabber",
   "description": "This extension allows the user automatically pull the video ID off youtube videos and send it to the sponView tool.",
-  "version": "1.0",
+  "version": "1.01",
 
   "browser_action": {
     "default_icon": "icon.png",

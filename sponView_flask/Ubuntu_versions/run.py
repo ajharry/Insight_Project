@@ -7,5 +7,4 @@ import os
 # from nltk.stem import PorterStemmer
 #from sponView_flask.tokenize import stem_tokens, tokenize
 
-os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
 app.run(host = '0.0.0.0')
